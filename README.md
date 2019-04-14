@@ -19,19 +19,19 @@ Amazing Hardware for robotics
 #### ARM based computers
 <a name="armcpus"/>
 
-###### OrangePi Zero <br>
+###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
 [<img src="Images/OrangePi.PNG" width="480" />]() <br>
 **Specifications**<br>
-**CPU**: H2 Quad-core Cortex A7 <br>
-**GPU**: Mali 400 <br>
-**RAM**: 512MB <br>
+**CPU**: H5 Quad-core 64-bit Cortex-A53 <br>
+**GPU**: Hexa-core Mali450 <br>
+**RAM**: 512MB DDR3 (shared with GPU) <br>
 **ROM**: NA <br>
-**WiFi**: Ob-board with antenna <br>
+**WiFi**: On-board with antenna <br>
 **Memory Expansion**: Micro SD Card (Max. 32GB) <br>
 **Ports**: 1 USB 2.0 Host, 1 USB OTG, 13 GPIOs <br>
 **Power**: 5 W <br>
 **OS**: Ubuntu, Android <br>
-**Dimensions**: 48 mm x 46 mm <br>
+**Dimensions**: 45 mm x 48 mm <br>
 **Weight**: 26 g <br> 
 **Supported Libraries**: <br>
 TensorFlow: &#9745; <br>
@@ -40,25 +40,25 @@ ROS: &#9745; <br>
 Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 
-###### Raspberry Pi 3B+ <br>
+###### [Raspberry Pi 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) <br>
 [<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
 **Specifications**<br>
-**CPU**: H2 Quad-core Cortex A7 <br>
-**GPU**: Mali 400 <br>
-**RAM**: 512MB <br>
+**CPU**: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC at 1.4GHz <br>
+**GPU**: NA <br>
+**RAM**: 1GB <br>
 **ROM**: NA <br>
-**WiFi**: Ob-board with antenna <br>
+**WiFi**: On-board with antenna <br>
 **Memory Expansion**: Micro SD Card (Max. 32GB) <br>
-**Ports**: 1 USB 2.0 Host, 1 USB OTG, 13 GPIOs <br>
-**Power**: 5 W <br>
+**Ports**: 4 USB 2.0, 40 GPIOs <br>
+**Power**: 12.5 W <br>
 **OS**: Ubuntu, Android <br>
-**Dimensions**: 48 mm x 46 mm <br>
-**Weight**: 26 g <br> 
+**Dimensions**: 85 mm x 49 mm <br>
+**Weight**: 42 g <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 
 
