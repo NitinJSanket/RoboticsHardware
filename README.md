@@ -18,6 +18,16 @@ Amazing Hardware for robotics
 
 #### ARM based computers
 <a name="armcpus"/>
+###### OrangePi Zero
+[<img src="Images/OrangePi.png" width="200" />]()
+Specifications:
+CPU: 
+GPU:
+RAM:
+ROM: 
+Memory Expansion:
+Dimensions:
+Benchmarks if available: 
 
 #### x86 computers
 <a name="x86cpus"/>
