@@ -2,9 +2,9 @@
 Amazing Hardware for robotics
 
 ## Table of Contents
-- CPUs + (GPUs)
-  - ARM based computers
-  - x86 computers
+- [CPUs + (GPUs)](#cpus)
+  - [ARM based computers](#armcpus)
+  - [x86 computers](#x86cpus)
 - Sensors
   - Cameras
     - Traditional Cameras
@@ -14,6 +14,7 @@ Amazing Hardware for robotics
   - IMUs
 
 ## CPUs + (GPUs)
+#cpus
 #### ARM based computers
 
 #### x86 computers
