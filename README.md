@@ -129,8 +129,51 @@ Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
 
-#### x86 computers
+#### x86 computers <br>
 <a name="x86cpus"/>
+###### [Intel NUC](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
+[<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
+**Specifications**<br>
+**CPU**: Dual-core Denver 2 64-bit CPU and quad-core ARM A57 complex <br>
+**GPU**: 256 NVIDIA Pascal Cuda Cores <br>
+**RAM**: 8GB <br>
+**ROM**: 32GB <br>
+**WiFi**: On-board with antenna <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
+**Power**: 15 W <br>
+**OS**: Ubuntu <br>
+**Dimensions**: 87 mm x 50 mm <br>
+**Weight**: 120 g? <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+OpenCV 3.3: &#9745; <br>
+ROS: &#9745; <br>
+Webcam Support: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
+
+###### [Intel Up Squared](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
+[<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
+**Specifications**<br>
+**CPU**: Dual-core Denver 2 64-bit CPU and quad-core ARM A57 complex <br>
+**GPU**: 256 NVIDIA Pascal Cuda Cores <br>
+**RAM**: 8GB <br>
+**ROM**: 32GB <br>
+**WiFi**: On-board with antenna <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
+**Power**: 15 W <br>
+**OS**: Ubuntu <br>
+**Dimensions**: 87 mm x 50 mm <br>
+**Weight**: 120 g? <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+OpenCV 3.3: &#9745; <br>
+ROS: &#9745; <br>
+Webcam Support: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
 
 ## Sensors
 <a name="sensors"/>
