@@ -23,14 +23,26 @@ Amazing Hardware for robotics
 
 [<img src="Images/OrangePi.PNG" width="480" />]()
 
-Specifications:
-CPU: 
-GPU:
-RAM:
-ROM: 
-Memory Expansion:
-Dimensions:
-Benchmarks if available: 
+**Specifications**<br>
+**CPU**: H2 Quad-core Cortex A7 <br>
+**GPU**: Mali 400 <br>
+**RAM**: 512MB <br>
+**ROM**: NA <br>
+**WiFi**: Ob-board with antenna <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 1 USB 2.0 Host, 1 USB OTG, 13 GPIOs <br>
+**Power**: 5 W <br>
+**OS**: Ubuntu, Android <br>
+**Dimensions**: 48 mm x 46 mm <br>
+**Weight**: 26 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: [&#9745;] <br>
+OpenCV 3.3: [&#9745;] <br>
+ROS: [&#9745;] <br>
+Webcam Support: [&#9745;] <br>
+
+**Benchmarks if available**: NA <br>
+
 
 #### x86 computers
 <a name="x86cpus"/>
