@@ -15,6 +15,7 @@ Amazing Hardware for robotics
 
 ## CPUs + (GPUs)
 <a name="cpus"/>
+
 #### ARM based computers
 
 #### x86 computers
