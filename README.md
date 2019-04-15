@@ -129,6 +129,9 @@ Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
 
+- iMX.7
+- iMX.6 
+
 #### x86 computers <br>
 <a name="x86cpus"/>
 ###### [Intel NUC](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
