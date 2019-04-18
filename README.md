@@ -200,7 +200,7 @@ Webcam Support: &#9745; <br>
 **Additional Notes**: <br>
 
 ###### [Intel Up Squared AI Vision X](https://software.intel.com/en-us/iot/hardware/up-squared-ai-vision-dev-kit) <br>
-[<img src="Images/UpSquared.PNG" width="480" />]() <br>
+[<img src="Images/UpSquared.png" width="480" />]() <br>
 **Specifications**<br>
 **CPU**: Intel Atom x7-E3950 processor (1.6 GHz quad core, burst up to 2.0 GHz) <br>
 **GPU**: Integrated Intel HD Graphics 505 and Movidius Myriad X <br>
