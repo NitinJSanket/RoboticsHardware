@@ -100,10 +100,10 @@ Webcam Support: &#9745; <br>
 **Dimensions**: 105 mm x 105 mm <br>
 **Weight**: 670 g? <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product-category/form-factors/nvidia-jetson-agx-xavier/) <br>
 
@@ -122,10 +122,10 @@ Webcam Support: &#9745; <br>
 **Dimensions**: 87 mm x 59 mm <br>
 **Weight**: 50 g <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
@@ -144,10 +144,10 @@ Webcam Support: &#9745; <br>
 **Dimensions**: 105 mm x 80 mm <br>
 **Weight**: NA <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
@@ -167,10 +167,10 @@ Webcam Support: &#9745; <br>
 **Dimensions**: 70 mm x 45 mm <br>
 **Weight**: NA <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
