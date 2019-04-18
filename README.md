@@ -176,41 +176,20 @@ Webcam Support: &#9744; <br>
 
 #### x86 computers <br>
 <a name="x86cpus"/>
-###### [Intel NUC](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
-[<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
-**Specifications**<br>
-**CPU**: Dual-core Denver 2 64-bit CPU and quad-core ARM A57 complex <br>
-**GPU**: 256 NVIDIA Pascal Cuda Cores <br>
-**RAM**: 8GB <br>
-**ROM**: 32GB <br>
-**WiFi**: On-board with antenna <br>
-**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
-**Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
-**Power**: 15 W <br>
-**OS**: Ubuntu <br>
-**Dimensions**: 87 mm x 50 mm <br>
-**Weight**: 120 g? <br> 
-**Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
-**Benchmarks if available**: NA <br>
-**Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
 
-###### [Intel Up Squared](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
-[<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
+###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
+[<img src="Images/NUC.PNG" width="480" />]() <br>
 **Specifications**<br>
-**CPU**: Dual-core Denver 2 64-bit CPU and quad-core ARM A57 complex <br>
-**GPU**: 256 NVIDIA Pascal Cuda Cores <br>
-**RAM**: 8GB <br>
-**ROM**: 32GB <br>
+**CPU**: Intel Core i7 <br>
+**GPU**: Intel HD Graphics <br>
+**RAM**: 32GB (Max.) <br>
+**ROM**: M2 Slot (Max. 1 TB) <br>
 **WiFi**: On-board with antenna <br>
-**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
-**Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
+**Memory Expansion**:  M2 Slot (Max. 1 TB) <br>
+**Ports**: 4 USB 3.0, 1 USB 3.0 and 1 USB 2.0 via internal headers, Ethernet, HDMI, CSI, 40 GPIOs <br>
 **Power**: 15 W <br>
-**OS**: Ubuntu <br>
-**Dimensions**: 87 mm x 50 mm <br>
+**OS**: Ubuntu, Windows <br>
+**Dimensions**: 101 mm x 101 mm <br>
 **Weight**: 120 g? <br> 
 **Supported Libraries**: <br>
 TensorFlow: &#9745; <br>
@@ -218,7 +197,29 @@ OpenCV 3.3: &#9745; <br>
 ROS: &#9745; <br>
 Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
-**Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
+**Additional Notes**: <br>
+
+###### [Intel Up Squared AI Vision X](https://software.intel.com/en-us/iot/hardware/up-squared-ai-vision-dev-kit) <br>
+[<img src="Images/UpSquared.PNG" width="480" />]() <br>
+**Specifications**<br>
+**CPU**: Intel Atom x7-E3950 processor (1.6 GHz quad core, burst up to 2.0 GHz) <br>
+**GPU**: Integrated Intel HD Graphics 505 and Movidius Myriad X <br>
+**RAM**: 8GB <br>
+**ROM**: 64GB <br>
+**WiFi**: With [WiFi card](https://up-shop.org/up-peripherals/153-m2-2230-wifi-kit-for-up-squared-metal-chassis.html) <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
+**Power**: 15 W <br>
+**OS**: Ubuntu, Windows <br>
+**Dimensions**: 101 mm x 101 mm <br>
+**Weight**: 120 g? <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+OpenCV 3.3: &#9745; <br>
+ROS: &#9745; <br>
+Webcam Support: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
 
 ## Sensors
 <a name="sensors"/>
