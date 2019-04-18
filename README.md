@@ -192,10 +192,10 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 101 mm x 101 mm <br>
 **Weight**: 120 g? <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
@@ -214,10 +214,10 @@ Webcam Support: &#9745; <br>
 **Dimensions**: 101 mm x 101 mm <br>
 **Weight**: 120 g? <br> 
 **Supported Libraries**: <br>
-TensorFlow: &#9745; <br>
-OpenCV 3.3: &#9745; <br>
-ROS: &#9745; <br>
-Webcam Support: &#9745; <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
