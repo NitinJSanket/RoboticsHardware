@@ -257,17 +257,17 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 
-###### [See3CAM_11CUG](https://www.e-consystems.com/industrial-digital-camera.asp) <br>
-[<img src="Images/See3Cam11CUG.PNG" width="480" />]() <br>
+###### [mvBlueFox-MLC200wC](https://www.matrix-vision.com/USB3-vision-camera-mvbluefox3.html) <br>
+[<img src="Images/mvBlueFox.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Sensor**: ON Semiconductor AR0134CS <br>
-**Shutter Type**: Global with upgrade <br> 
-**Resolution and Frame rate**: 1280 x 960 at 20 fps (Max.) Sensor supports upto 60 fps at Max. resolution. <br>
+**Sensor**: ON Semiconductor MT9V <br>
+**Shutter Type**: Global <br> 
+**Resolution and Frame rate**: 752 x 480 at 93 fps (Max.) <br>
 **Sensor Size**: 1/3" <br>
 **Color/Monochrome**: RGB Color <br>
 **Lens Mount**: C/CS <br>
-**Dimensions**: 40 mm x 44 mm <br>
-**Weight**: 25 g (without lens and without enclosure) <br> 
+**Dimensions**: 35 mm x 33 mm xx 25 mm <br>
+**Weight**: 10 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
 
 - Global Shutter Camera
