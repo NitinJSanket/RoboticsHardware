@@ -286,6 +286,7 @@ Webcam Support: &#9744; <br>
 
 - Global Shutter Camera
 - Rolling Shutter Camera
+- Common Imaging Sensors
 - Stereo Cameras
   - Tara from EconSystems
   - MyntEye
