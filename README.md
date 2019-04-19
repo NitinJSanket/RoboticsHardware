@@ -230,8 +230,17 @@ Webcam Support: &#9744; <br>
 ##### Imaging Cameras 
 <a name="imagcameras"/>
 
+- Global Shutter Camera
+- Rolling Shutter Camera
+- Stereo Cameras
+- RGBD cameras
+
 ##### Event Cameras 
 <a name="eventcameras"/>
+
+- IniLabs
+- Professee
+- Insightness
 
 
 #### Distance Sensors
@@ -240,6 +249,13 @@ Webcam Support: &#9744; <br>
 #### LIDAR
 <a name="lidar"/>
 
+- Velodyne Puck
+- RP Lidar
+
 #### IMUs
 <a name="imu"/>
+
+- Variense
+- VectorNav
+- InvenSense
  
