@@ -257,7 +257,7 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 
-###### [mvBlueFox-MLC200wC](https://www.matrix-vision.com/USB3-vision-camera-mvbluefox3.html) <br>
+###### [Matrix Vision mvBlueFox-MLC200wC](https://www.matrix-vision.com/USB3-vision-camera-mvbluefox3.html) <br>
 [<img src="Images/mvBlueFox.PNG" width="480" />]() <br>
 **Specifications**<br>
 **Sensor**: ON Semiconductor MT9V <br>
@@ -266,15 +266,30 @@ Webcam Support: &#9744; <br>
 **Sensor Size**: 1/3" <br>
 **Color/Monochrome**: RGB Color <br>
 **Lens Mount**: C/CS <br>
-**Dimensions**: 35 mm x 33 mm xx 25 mm <br>
+**Dimensions**: 35 mm x 33 mm x 25 mm <br>
 **Weight**: 10 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
 
+###### [Point Grey Flea3 e2v EV76C560](https://www.ptgrey.com/flea3-13-mp-color-usb3-vision-e2v-ev76c560-camera) <br>
+[<img src="Images/Flea3.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: e2v EV76C560
+ <br>
+**Shutter Type**: Global <br> 
+**Resolution and Frame rate**: 1280 x 1024 at 60 fps (Max.) <br>
+**Sensor Size**: 1/1.8" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: C <br>
+**Dimensions**: 29 mm x 29 mm x 30 mm <br>
+**Weight**: 41 g (without lens and without enclosure) <br> 
+**Additional Notes**: <br>
+
 - Global Shutter Camera
-  - Point Grey
-  - mvBlueFOX
 - Rolling Shutter Camera
 - Stereo Cameras
+  - Tara from EconSystems
+  - MyntEye
+  - Fisheye thing Ganguly sent
 - RGBD cameras
 
 ##### Event Cameras 
