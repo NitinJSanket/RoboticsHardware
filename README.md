@@ -230,7 +230,49 @@ Webcam Support: &#9744; <br>
 ##### Imaging Cameras 
 <a name="imagcameras"/>
 
+###### [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) <br>
+[<img src="Images/OpenMVH7.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: ON Semiconductor MT9V034 with optional [Global Shutter upgrade](https://openmv.io/collections/cams/products/global-shutter-camera-module) <br>
+**Shutter Type**: Global with upgrade <br> 
+**Resolution and Frame rate**: 752 x 480 at 60 fps (Max.)  <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 45 mm x 36 mm x 30 mm<br>
+**Weight**: 19 g <br> 
+**Additional Notes**: Comes with a Cortex M7 processor on-board at 400MHz, 256KB RAM and Micro SD Card support. Also supports MicroPython programming interface.<br>
+
+###### [See3CAM_11CUG](https://www.e-consystems.com/industrial-digital-camera.asp) <br>
+[<img src="Images/See3Cam11CUG.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: ON Semiconductor AR0134CS <br>
+**Shutter Type**: Global with upgrade <br> 
+**Resolution and Frame rate**: 1280 x 960 at 20 fps (Max.) Sensor supports upto 60 fps at Max. resolution. <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: C/CS <br>
+**Dimensions**: 40 mm x 44 mm <br>
+**Weight**: 25 g (without lens and without enclosure) <br> 
+**Additional Notes**: <br>
+
+
+###### [See3CAM_11CUG](https://www.e-consystems.com/industrial-digital-camera.asp) <br>
+[<img src="Images/See3Cam11CUG.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: ON Semiconductor AR0134CS <br>
+**Shutter Type**: Global with upgrade <br> 
+**Resolution and Frame rate**: 1280 x 960 at 20 fps (Max.) Sensor supports upto 60 fps at Max. resolution. <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: C/CS <br>
+**Dimensions**: 40 mm x 44 mm <br>
+**Weight**: 25 g (without lens and without enclosure) <br> 
+**Additional Notes**: <br>
+
 - Global Shutter Camera
+  - Point Grey
+  - mvBlueFOX
 - Rolling Shutter Camera
 - Stereo Cameras
 - RGBD cameras
