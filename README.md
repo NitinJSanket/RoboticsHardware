@@ -172,7 +172,7 @@ OpenCV 3.3: &#9744; <br>
 ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
-**Additional Notes**: <br>
+**Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
 #### x86 computers <br>
 <a name="x86cpus"/>
@@ -308,15 +308,83 @@ Webcam Support: &#9744; <br>
 **Lens Mount**: M12 <br>
 **Dimensions**: 25 mm x 24 mm x 9 mm <br>
 **Weight**: 3 g (with lens) <br> 
-**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/) <br>
+**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/). [Rolling Shutter Problems](https://www.raspberrypi.org/forums/viewtopic.php?t=177046).<br>
+
+
+###### [CaliCam Fisheye Mono](https://astar.ai/collections/astar-products/products/calicam-mono) <br>
+[<img src="Images/CaliCamMono.png" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: NA  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 1280 x 960 at 30 fps (Max.) <br>
+**Sensor Size**: NA <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 38 mm x 38 mm <br>
+**Weight**: NA (with lens) <br> 
+**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
+
+
+###### [CaliCam Fisheye Stereo](https://astar.ai/collections/astar-products/products/stereo-camera) <br>
+[<img src="Images/CaliCamStereo.png" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: NA  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 2560 x 960 at 30 fps (Max.) <br>
+**Baseline**: 120 mm <br>
+**Sensor Size**: NA <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 150 mm x 30 mm <br>
+**Weight**: NA (with lens) <br> 
+**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
+
+###### [Mynt Eye D](https://www.mynteye.com/pages/mynt-eye-d) <br>
+[<img src="Images/MyntEyeD.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: NA  <br>
+**Shutter Type**: Global <br> 
+**Resolution and Frame rate**: 2560 x 720 at 60 fps (Max.) and Depth at 1280 x 720 at 60 fps (Max.) <br>
+**Baseline**: NA <br>
+**Sensor Size**: NA <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 145 mm x 20 mm x 28.6 mm<br>
+**Weight**: 190 (with casing), 80 g (without casing) <br> 
+**Additional Notes**: Includes an IMU as well. <br>
+
+###### [Tara](https://www.e-consystems.com/3D-USB-stereo-camera.asp) <br>
+[<img src="Images/Tara.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: MT9V024 <br>
+**Shutter Type**: Global <br> 
+**Resolution and Frame rate**: 1504 x 480 at 60 fps (Max.) <br>
+**Baseline**: 60 mm <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 145 mm x 20 mm x 28.6 mm<br>
+**Weight**: 80.5 (with casing), 28.5 g (without casing) <br> 
+**Additional Notes**: Includes an IMU as well. <br>
+
+###### [Duo MLX](https://duo3d.com/product/duo-minilx-lv1) <br>
+[<img src="Images/DuoMLX.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: MT9V024 <br>
+**Shutter Type**: Global <br> 
+**Resolution and Frame rate**: 1504 x 480 at 45 fps (Max.) <br>
+**Baseline**: 30 mm <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M8 <br>
+**Dimensions**: 52 mm x 25 mm x 13 mm<br>
+**Weight**: 12.5 g <br> 
+**Additional Notes**: Includes an IMU as well. <br>
 
 - Global Shutter Camera
 - Rolling Shutter Camera
 - Common Imaging Sensors
-- Stereo Cameras
-  - Tara from EconSystems
-  - MyntEye
-  - Fisheye thing Ganguly sent
+  
 - RGBD cameras
 
 ##### Event Cameras 
