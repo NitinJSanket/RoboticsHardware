@@ -370,7 +370,7 @@ Webcam Support: &#9744; <br>
 ###### [Duo MLX](https://duo3d.com/product/duo-minilx-lv1) <br>
 [<img src="Images/DuoMLX.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Sensor**: MT9V024 <br>
+**Sensor**: NA <br>
 **Shutter Type**: Global <br> 
 **Resolution and Frame rate**: 1504 x 480 at 45 fps (Max.) <br>
 **Baseline**: 30 mm <br>
