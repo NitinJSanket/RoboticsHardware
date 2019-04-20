@@ -284,6 +284,32 @@ Webcam Support: &#9744; <br>
 **Weight**: 41 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
 
+###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
+[<img src="Images/ELPCamera.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: Aptina MI5100  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 2592 x 1944 at 15 fps (Max.) <br>
+**Sensor Size**: 1/2.5" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 38 mm x 38 mm <br>
+**Weight**: 10 g (with lens) <br> 
+**Additional Notes**: <br>
+
+###### [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/) <br>
+[<img src="Images/RaspberryPiCam2.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: Sony IMX219  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 1920 x 1080 at 30 fps (Max.) <br>
+**Sensor Size**: 1/4" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 25 mm x 24 mm x 9 mm <br>
+**Weight**: 3 g (with lens) <br> 
+**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/) <br>
+
 - Global Shutter Camera
 - Rolling Shutter Camera
 - Common Imaging Sensors
