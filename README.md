@@ -10,10 +10,16 @@ Amazing Hardware for robotics
     - [Imaging Cameras](#imagcameras)
       - [Global Shutter Cameras](#globimagcameras)
       - [Rolling Shutter Cameras](#rollingimagcameras)
+      - [RGB Cameras](#rgbd)
     - [Event cameras](#eventcameras)
   - [Distance Sensors](#dist)
   - [LIDAR](#lidar)
   - [IMUs](#imu)
+
+ ## TODO:
+ - Add Prices
+ - Common Imaging Sensors
+
 
 <a name="cpus"/>
 
@@ -178,6 +184,8 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
+
+
 <a name="x86cpus"/>
 
 ### x86 computers <br>
@@ -190,7 +198,7 @@ Webcam Support: &#9744; <br>
 **RAM**: 32GB (Max.) <br>
 **ROM**: M2 Slot (Max. 1 TB) <br>
 **WiFi**: On-board with antenna <br>
-**Memory Expansion**:  M2 Slot (Max. 1 TB) <br>
+**Memory Expansion**: M2 Slot (Max. 1 TB) <br>
 **Ports**: 4 USB 3.0, 1 USB 3.0 and 1 USB 2.0 via internal headers, Ethernet, HDMI, CSI, 40 GPIOs <br>
 **Power**: 15 W <br>
 **OS**: Ubuntu, Windows <br>
@@ -212,11 +220,33 @@ Webcam Support: &#9744; <br>
 **RAM**: 8GB <br>
 **ROM**: 64GB <br>
 **WiFi**: With [WiFi card](https://up-shop.org/up-peripherals/153-m2-2230-wifi-kit-for-up-squared-metal-chassis.html) <br>
-**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Memory Expansion**: NA <br>
 **Ports**: 4 USB 2.0, Ethernet, HDMI, CSI, 40 GPIOs <br>
 **Power**: 15 W <br>
 **OS**: Ubuntu, Windows <br>
 **Dimensions**: 101 mm x 101 mm <br>
+**Weight**: 120 g? <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
+
+###### [AAeon Up Board](https://store.intelrealsense.com/buy-aaeon-up-board.html) <br>
+[<img src="Images/AaeonUpBoard.PNG" width="480" />]() <br>
+**Specifications**<br>
+**CPU**: Intel Atom x5-Z8350 Processor (1.44 GHz quad core, burst up to 1.92 GHz) <br>
+**GPU**: Integrated Intel HD Graphics 400 <br>
+**RAM**: 4GB <br>
+**ROM**: 32GB <br>
+**WiFi**: With [WiFi card](https://up-shop.org/up-peripherals/153-m2-2230-wifi-kit-for-up-squared-metal-chassis.html) <br>
+**Memory Expansion**: NA <br>
+**Ports**: 1 USB 3.0 OTG, 4 USB 2.0, 2 USB 2.0 header, Ethernet, HDMI, CSI, DSI, 40 GPIOs <br>
+**Power**: 15 W <br>
+**OS**: Ubuntu 14.04, 16.04 <br>
+**Dimensions**: 85.60 mm x 56.5 mm <br>
 **Weight**: 120 g? <br> 
 **Supported Libraries**: <br>
 TensorFlow: &#9744; <br>
@@ -399,19 +429,82 @@ Webcam Support: &#9744; <br>
 **Weight**: 12.5 g <br> 
 **Additional Notes**: Includes an IMU as well. <br>
 
-- Global Shutter Camera
-- Rolling Shutter Camera
-- Common Imaging Sensors
-  
-- RGBD cameras
+
+<a name="rgbd"/>
+
+##### RGBD Cameras 
+
+###### [Asus Xtion Pro Live](https://www.asus.com/us/3D-Sensor/Xtion_PRO_LIVE/) <br>
+[<img src="Images/Xtion.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Depth Range**: 800 mm to 3500 mm <br>
+**Resolution and Frame rate**: Images at 1280 x 1024 at 30 fps (Max.), Depth at 640 x 480 at 30 fps (Max.) <br>
+**Color/Monochrome**: RGB Color <br>
+**Dimensions**: 457 mm x 89 mm x 127 mm<br>
+**Weight**: 540 g <br> 
+**Additional Notes**: Includes microphones as well. <br>
+
+###### [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/) <br>
+[<img src="Images/RealSense.png" width="480" />]() <br>
+**Specifications**<br>
+**Depth Range**: 105 mm to 10000 mm <br>
+**Resolution and Frame rate**: Images at 1920 x 1080 at 30 fps (Max.), Depth at 1280 x 720 at 90 fps (Max.) <br>
+**Color/Monochrome**: RGB Color <br>
+**Dimensions**: 99 mm x 25 mm x 25 mm<br>
+**Weight**: 540 g <br> 
+**Additional Notes**: Includes IMU as well. More versions available [here](https://store.intelrealsense.com/).<br>
 
 <a name="eventcameras"/>
 
 ##### Event Cameras 
 
-- IniLabs
-- Professee
-- Insightness
+###### [DAVIS 240C](https://inivation.com/buy/) <br>
+[<img src="Images/DAVIS240C.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Imaging Shutter Type**: Global <br> 
+**Resolution and Event Rate**: 240 x 180 at 12 MEPS (Max.) <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: CS <br>
+**Dimensions**: 56 mm x 62 mm x 28 mm <br>
+**Weight**: 75 g (without lens) <br> 
+**Additional Notes**: <br>
+
+###### [DAVIS 346](https://inivation.com/buy/) <br>
+[<img src="Images/DAVIS240C.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Imaging Shutter Type**: Global <br> 
+**Resolution and Event Rate**: 346 x 260 at 12 MEPS (Max.) <br>
+**Sensor Size**: 1/3.33" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: CS <br>
+**Dimensions**: 40 mm x 60 mm x 25 mm <br>
+**Weight**: 100 g (without lens) <br> 
+**Additional Notes**: <br>
+
+###### [Silicon Eye Rino 3.0](http://www.insightness.com/) <br>
+[<img src="Images/Inightness.png" width="480" />]() <br>
+**Specifications**<br>
+**Imaging Shutter Type**: Global <br> 
+**Resolution and Event Rate**: 320 x 262 at 40 MEPS clocked at 10KHz (Max.) <br>
+**Sensor Size**: 1/3.2" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 35 mm x 35 mm x 28 mm <br>
+**Weight**: 15 g (without lens) <br> 
+**Additional Notes**: Includes an MPU-9250 IMU as well. Also includes event visual inertial odometry software package as well.<br>
+
+###### [Prophesee VGA Sensor](https://www.prophesee.ai/) <br>
+[<img src="Images/Prophesee.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Imaging Shutter Type**: Global <br> 
+**Resolution and Event Rate**: 640 x 480 at 40 MEPS clocked at 10KHz (Max.) <br>
+**Sensor Size**: 3/4" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: C <br>
+**Dimensions**: 60 mm x 50 mm x 37 mm <br>
+**Weight**: 146 g (with the lens) <br> 
+**Additional Notes**: Includes an IMU as well. <br>
 
 <a name="dist"/>
 
