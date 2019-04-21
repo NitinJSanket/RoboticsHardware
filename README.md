@@ -8,6 +8,8 @@ Amazing Hardware for robotics
 - [Sensors](#sensors)
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
+      - [Global Shutter Cameras](#globimagcameras)
+      - [Rolling Shitter Cameras](#rollingimagcameras)
     - [Event cameras](#eventcameras)
   - [Distance Sensors](#dist)
   - [LIDAR](#lidar)
@@ -16,7 +18,7 @@ Amazing Hardware for robotics
 ## CPUs + (GPUs)
 <a name="cpus"/>
 
-#### ARM based computers
+### ARM based computers
 <a name="armcpus"/>
 
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
@@ -174,7 +176,7 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
-#### x86 computers <br>
+### x86 computers <br>
 <a name="x86cpus"/>
 
 ###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
@@ -224,11 +226,14 @@ Webcam Support: &#9744; <br>
 ## Sensors
 <a name="sensors"/>
 
-#### Cameras
+### Cameras
 <a name="cameras"/>
 
-##### Imaging Cameras 
+#### Imaging Cameras 
 <a name="imagcameras"/>
+
+##### Global Shutter Cameras 
+<a name="globimagcameras"/>
 
 ###### [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) <br>
 [<img src="Images/OpenMVH7.PNG" width="480" />]() <br>
@@ -283,6 +288,9 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 29 mm x 29 mm x 30 mm <br>
 **Weight**: 41 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
+
+##### Rolling Shutter Cameras 
+<a name="rollingimagcameras"/>
 
 ###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
 [<img src="Images/ELPCamera.PNG" width="480" />]() <br>
