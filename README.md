@@ -16,9 +16,11 @@ Amazing Hardware for robotics
   - [IMUs](#imu)
 
 <a name="cpus"/>
+
 ## CPUs + (GPUs)
 
 <a name="armcpus"/>
+
 ### ARM based computers
 
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
@@ -177,6 +179,7 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
 <a name="x86cpus"/>
+
 ### x86 computers <br>
 
 ###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
@@ -224,15 +227,19 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 <a name="sensors"/>
+
 ## Sensors
 
 <a name="cameras"/>
+
 ### Cameras
 
 <a name="imagcameras"/>
+
 #### Imaging Cameras 
 
 <a name="globimagcameras"/>
+
 ##### Global Shutter Cameras 
 
 
@@ -291,6 +298,7 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 <a name="rollingimagcameras"/>
+
 ##### Rolling Shutter Cameras 
 
 
@@ -398,6 +406,7 @@ Webcam Support: &#9744; <br>
 - RGBD cameras
 
 <a name="eventcameras"/>
+
 ##### Event Cameras 
 
 - IniLabs
@@ -405,9 +414,11 @@ Webcam Support: &#9744; <br>
 - Insightness
 
 <a name="dist"/>
+
 #### Distance Sensors
 
 <a name="lidar"/>
+
 #### LIDAR
 
 
@@ -415,6 +426,7 @@ Webcam Support: &#9744; <br>
 - RP Lidar
 
 <a name="imu"/>
+
 #### IMUs
 
 
