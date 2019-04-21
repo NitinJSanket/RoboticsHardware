@@ -514,16 +514,166 @@ Webcam Support: &#9744; <br>
 
 #### LIDAR
 
+###### [Velodyne Puck VLP-16](https://velodynelidar.com/vlp-16.html) <br>
+[<img src="Images/Puck.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 100 m <br> 
+**Measurement Accuracy**: 3 cm <br> 
+**Field of View**: 3D, Vertical 30 degrees, Horizontal 360 degrees for 16 channels <br> 
+**Resolution**: Angular 0.1 - 0.4 degrees <br>
+**Rate**: 20 Hz (Max.) <br>
+**Dimensions**: 103.3 mm x 103.3 mm x 71.7 mm <br>
+**Weight**: 830 g (without cabling and interface box) <br> 
+**Additional Notes**: <br>
 
-- Velodyne Puck
-- RP Lidar
+###### [RPLidar A3](http://www.slamtec.com/en/lidar/A3) <br>
+[<img src="Images/RPLidar.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 25 m <br> 
+**Measurement Accuracy**: 3 cm <br> 
+**Field of View**: 2D, Horizontal 360 degrees <br> 
+**Resolution**: Angular 0.3375 degrees  <br>
+**Rate**: 20 Hz (Max.) <br>
+**Dimensions**: 76 mm x 76 mm x 41 mm <br>
+**Weight**: 190 g <br> 
+**Additional Notes**: <br>
+
+###### [Ouster OS1](https://www.ouster.io/product-os1) <br>
+[<img src="Images/Ouster.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 120 m <br> 
+**Measurement Accuracy**: 3 cm <br> 
+**Field of View**: 3D, Vertical 33.2 degrees, Horizontal 360 degrees for 64 channels <br> 
+**Resolution**: Angular 0.18 degrees (horizontal), 0.52 degrees (vertical) <br>
+**Rate**: 20 Hz (Max.) <br>
+**Dimensions**: 80 mm x 80 mm x 74 mm <br>
+**Weight**: 380 g <br> 
+**Additional Notes**: Includes an IMU. <br>
+
+###### [Garmin LIDAR-Lite v3](https://buy.garmin.com/en-US/US/p/557294) <br>
+[<img src="Images/GarminLidar.png" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 5 cm to 40 m <br> 
+**Measurement Accuracy**: 2.5 cm <br> 
+**Field of View**: 1 beam LIDAR <br> 
+**Resolution**: 1 cm <br>
+**Rate**: 500 Hz (Max.) <br>
+**Dimensions**: 40 mm x 48 mm x 20 mm <br>
+**Weight**: 22 g <br> 
+**Additional Notes**:  <br>
+
+<a name="tof"/>
+
+#### Time of Flight or IR Range Sensors
+
+
+###### [TeraRanger One](https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-one/) <br>
+[<img src="Images/TeraRangerOne.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 14 m (Max.) <br> 
+**Measurement Accuracy**: 4 cm <br> 
+**Field of View**: 1 beam LIDAR <br> 
+**Resolution**: 0.5 cm <br>
+**Field of View**: 3 degrees <br>
+**Rate**: 1000 Hz (Max.) <br>
+**Dimensions**: 29 mm x 18 mm x 35 mm <br>
+**Weight**: 8 g <br> 
+**Additional Notes**:  <br>
+
+###### [TeraBee 3Dcam 80x60](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/) <br>
+[<img src="Images/TeraBee3DCam.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Resolution**: 80 x 60 px. <br>
+**Field of View**: 74 degrees x 57 degrees <br>
+**Measurement Range**: 0.2 m - 1.2 m (close range mode), 1 m - 4 m (normal mode) <br> 
+**Measurement Accuracy**: 4 cm <br> 
+**Depth Resolution**: 1% of distance <br>
+**Rate**: 30 Hz (Max.) <br>
+**Dimensions**: 54 mm x 53 mm x 24 mm <br>
+**Weight**: 83 g (with casing) <br> 
+**Additional Notes**:  <br>
+
+###### [Sharp GP2Y0A21YK0F Analog Distance Sensor](https://www.pololu.com/product/136) <br>
+[<img src="Images/SharpSensor.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 10 cm - 80 cm <br> 
+**Depth Resolution**: 1% of distance <br>
+**Rate**: 26 Hz (Max.) <br>
+**Dimensions**: 44.5 mm x 19 mm x 12.7 mm <br>
+**Weight**: 3.5 g <br> 
+**Additional Notes**:  <br>
+
+###### [CamBoard Pico MonoStar](https://pmdtec.com/picofamily/monstar/) <br>
+[<img src="Images/PMDMonoStar.png" width="480" />]() <br>
+**Specifications**<br>
+**Resolution**: 352 x 287 px. <br>
+**Field of View**: 100 degrees x 85 degrees <br>
+**Measurement Range**: 0.5 m - 6 m <br> 
+**Depth Resolution**: 1% of distance <br>
+**Rate**: 60 Hz (Max.) <br>
+**Dimensions**: 62 mm x 66 mm x 29 mm <br>
+**Weight**: 142 g (with casing) <br> 
+**Additional Notes**:  <br>
+
+
+<a name="sonar"/>
+
+#### SONAR
+
+###### [MaxSonar EZ1](https://www.maxbotix.com/Ultrasonic_Sensors/MB1010.htm) <br>
+[<img src="Images/MaxSonarEZ1.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Measurement Range**: 6 m (Max.) <br> 
+**Rate**: 20 Hz (Max.) <br>
+**Dimensions**: 15.5 mm x 22.3 mm x 20 mm <br>
+**Weight**: 4.3 g (with casing) <br> 
+**Additional Notes**:  <br>
+
 
 <a name="imu"/>
 
 #### IMUs
 
+###### [VectorNav VN-100](https://www.vectornav.com/products/vn-100) <br>
+[<img src="Images/VN100.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Gyroscope Range**: 2000 degree/sec<br>
+**Gyroscope Resolution**: 0.02 degree/sec<br>
+**Gyroscope Bias Stability**: 10 degree/hour<br>
+**Accelerometer Range**: 16 g<br>
+**Accelerometer Resolution**: 0.5 mg<br>
+**Accelerometer Bias Stability**: 0.04 mg<br>
+**Rate**: 800 Hz (Max.), 400 Hz (Angles) <br>
+**Dimensions**: 36 mm x 33 mm x 9 mm (rugged), 24 mm x 22 mm x 3 mm (SMD) <br>
+**Weight**: 15 g (rugged), 3.5 g (SMD) <br> 
+**Additional Notes**: Runs EKF on-board to output attitude as euler angles or quaternion or rotation matrix. Temparature compensated.<br>
 
-- Variense
-- VectorNav
-- InvenSense
+###### [Variense VMU931](https://variense.com/product/vmu931/) <br>
+[<img src="Images/VMU931.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Gyroscope Range**: 2000 degree/sec<br>
+**Gyroscope Resolution**: 0.03 degree/sec<br>
+**Gyroscope Bias Stability**: 5 degree/hour<br>
+**Accelerometer Range**: 16 g<br>
+**Accelerometer Resolution**: NA<br>
+**Accelerometer Bias Stability**: NA <br>
+**Rate**: 1000 Hz (Max.), 200 Hz (Angles) <br>
+**Dimensions**: 31 mm x 31 mm x 9.5 mm<br>
+**Weight**: 10 g <br> 
+**Additional Notes**: Runs EKF on-board to output attitude as euler angles or quaternion or rotation matrix.<br>
+
+###### [InvenSense MPU-9250](https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/) <br>
+[<img src="Images/MPU9250.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Gyroscope Range**: 2000 degree/sec<br>
+**Gyroscope Resolution**: NA <br>
+**Gyroscope Bias Stability**: NA<br>
+**Accelerometer Range**: 16 g<br>
+**Accelerometer Resolution**: NA<br>
+**Accelerometer Bias Stability**: NA <br>
+**Rate**: 4000 Hz (Accelerometer), 800 Hz (Gyroscope) <br>
+**Dimensions**: 3 mm x 3 mm x 1 mm<br>
+**Weight**: NA <br> 
+**Additional Notes**: <br>
+
  
