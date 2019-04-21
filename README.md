@@ -9,17 +9,17 @@ Amazing Hardware for robotics
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
       - [Global Shutter Cameras](#globimagcameras)
-      - [Rolling Shitter Cameras](#rollingimagcameras)
+      - [Rolling Shutter Cameras](#rollingimagcameras)
     - [Event cameras](#eventcameras)
   - [Distance Sensors](#dist)
   - [LIDAR](#lidar)
   - [IMUs](#imu)
 
-## CPUs + (GPUs)
 <a name="cpus"/>
+## CPUs + (GPUs)
 
-### ARM based computers
 <a name="armcpus"/>
+### ARM based computers
 
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
 [<img src="Images/OrangePi.PNG" width="480" />]() <br>
@@ -176,8 +176,8 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
-### x86 computers <br>
 <a name="x86cpus"/>
+### x86 computers <br>
 
 ###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
 [<img src="Images/NUC.PNG" width="480" />]() <br>
@@ -223,17 +223,18 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
-## Sensors
 <a name="sensors"/>
+## Sensors
 
-### Cameras
 <a name="cameras"/>
+### Cameras
 
-#### Imaging Cameras 
 <a name="imagcameras"/>
+#### Imaging Cameras 
 
-##### Global Shutter Cameras 
 <a name="globimagcameras"/>
+##### Global Shutter Cameras 
+
 
 ###### [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) <br>
 [<img src="Images/OpenMVH7.PNG" width="480" />]() <br>
@@ -289,8 +290,9 @@ Webcam Support: &#9744; <br>
 **Weight**: 41 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
 
-##### Rolling Shutter Cameras 
 <a name="rollingimagcameras"/>
+##### Rolling Shutter Cameras 
+
 
 ###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
 [<img src="Images/ELPCamera.PNG" width="480" />]() <br>
@@ -395,25 +397,26 @@ Webcam Support: &#9744; <br>
   
 - RGBD cameras
 
-##### Event Cameras 
 <a name="eventcameras"/>
+##### Event Cameras 
 
 - IniLabs
 - Professee
 - Insightness
 
-
-#### Distance Sensors
 <a name="dist"/>
+#### Distance Sensors
 
-#### LIDAR
 <a name="lidar"/>
+#### LIDAR
+
 
 - Velodyne Puck
 - RP Lidar
 
-#### IMUs
 <a name="imu"/>
+#### IMUs
+
 
 - Variense
 - VectorNav
