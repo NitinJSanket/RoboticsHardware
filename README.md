@@ -471,7 +471,7 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 ###### [DAVIS 346](https://inivation.com/buy/) <br>
-[<img src="Images/DAVIS240C.PNG" width="480" />]() <br>
+[<img src="Images/DAVIS346.PNG" width="480" />]() <br>
 **Specifications**<br>
 **Imaging Shutter Type**: Global <br> 
 **Resolution and Event Rate**: 346 x 260 at 12 MEPS (Max.) <br>
