@@ -74,7 +74,7 @@ Amazing Hardware for robotics
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
 [<img src="Images/OrangePi.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 14.90 [Buy here](https://www.aliexpress.com/item/Orange-Pi-Zero-Plus-H5-Chip-Quad-Core-Open-source-Cortex-A53-512MB-development-board-beyond/32828347476.html?af=2513170&aff_platform=default&cpt=1556024489689&afref=http%253A%252F%252Fwww.orangepi.org%252FOrangePiZeroPlus&cn=42pqf06gq0bp8pz0zag9aa989ldajakp&dp=v5_42pqf06gq0bp8pz0zag9aa989ldajakp&cv=30181444&pvid=775ec9c5-8b64-4fdc-98be-33039f22dfd8&sk=ccfBY4yg&aff_trace_key=507bcc5540ca4f1f9d04253b27421d93-1556024489689-03528-ccfBY4yg&rmsg=no_replacement_pid_sid_whitelist&scm=1007.23534.124000.0&terminal_id=445918e391384fc1af7392745dc2a3f3)<br>
+**Cost and Sourcing Link**: USD 14.90. [Buy here](https://www.aliexpress.com/item/Orange-Pi-Zero-Plus-H5-Chip-Quad-Core-Open-source-Cortex-A53-512MB-development-board-beyond/32828347476.html?af=2513170&aff_platform=default&cpt=1556024489689&afref=http%253A%252F%252Fwww.orangepi.org%252FOrangePiZeroPlus&cn=42pqf06gq0bp8pz0zag9aa989ldajakp&dp=v5_42pqf06gq0bp8pz0zag9aa989ldajakp&cv=30181444&pvid=775ec9c5-8b64-4fdc-98be-33039f22dfd8&sk=ccfBY4yg&aff_trace_key=507bcc5540ca4f1f9d04253b27421d93-1556024489689-03528-ccfBY4yg&rmsg=no_replacement_pid_sid_whitelist&scm=1007.23534.124000.0&terminal_id=445918e391384fc1af7392745dc2a3f3)<br>
 **CPU**: H5 Quad-core 64-bit Cortex-A53 <br>
 **GPU**: Hexa-core Mali450 <br>
 **RAM**: 512MB DDR3 (shared with GPU) <br>
@@ -99,7 +99,7 @@ Webcam Support: &#9745; <br>
 ###### [Raspberry Pi 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) <br>
 [<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 35.00 [Buy here](https://www.adafruit.com/product/3775?src=raspberrypi)<br>
+**Cost and Sourcing Link**: USD 35.00. [Buy here](https://www.adafruit.com/product/3775?src=raspberrypi)<br>
 **CPU**: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC at 1.4GHz <br>
 **GPU**: NA <br>
 **RAM**: 1GB <br>
@@ -124,7 +124,7 @@ Webcam Support: &#9744; <br>
 ###### [NVIDIA Jetson TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
 [<img src="Images/TX2.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 299.00 with Academic Discount [Buy here](http://www.nvidia.com/object/jetsontx2-edu-discount.html)<br>
+**Cost and Sourcing Link**: USD 299.00 with Academic Discount. [Buy here](http://www.nvidia.com/object/jetsontx2-edu-discount.html)<br>
 **CPU**: Dual-core Denver 2 64-bit CPU and quad-core ARM A57 complex <br>
 **GPU**: 256 NVIDIA Pascal Cuda Cores <br>
 **RAM**: 8GB <br>
@@ -149,7 +149,7 @@ Webcam Support: &#9745; <br>
 ###### [NVIDIA Jetson Xavier](https://developer.nvidia.com/embedded/buy/jetson-agx-xavier-devkit) <br>
 [<img src="Images/Xavier.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 899.00 with Academic Discount [Buy here](https://www.nvidia.com/object/jetson-agx-xavier-edu-discount.html)<br>
+**Cost and Sourcing Link**: USD 899.00 with Academic Discount. [Buy here](https://www.nvidia.com/object/jetson-agx-xavier-edu-discount.html)<br>
 **CPU**: 8-core ARM v8.2 64-bit CPU, 8MB L2 + 4MB L3 <br>
 **GPU**: 512-core Volta GPU and 64 Tensor Cores <br>
 **RAM**: 16GB <br>
@@ -174,7 +174,7 @@ Webcam Support: &#9744; <br>
 ###### [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/) <br>
 [<img src="Images/JetsonNano.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 99.00 [Buy here](https://store.nvidia.com/store?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=nvidia&id=QuickBuyCartPage)<br>
+**Cost and Sourcing Link**: USD 99.00. [Buy here](https://store.nvidia.com/store?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=nvidia&id=QuickBuyCartPage)<br>
 **CPU**: Quad-core ARM A57 at 1.43 GHz <br>
 **GPU**: 128 NVIDIA Maxwell Cuda Cores <br>
 **RAM**: 4GB <br>
@@ -199,7 +199,7 @@ Webcam Support: &#9744; <br>
 ###### [iMX7](https://www.e-consystems.com/iMX7-som-system-on-module.asp) <br>
 [<img src="Images/iMX7.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 299.00 [Buy here](https://www.e-consystems.com/webstore.asp#AnkaaPLUSprice)<br>
+**Cost and Sourcing Link**: USD 299.00. [Buy here](https://www.e-consystems.com/webstore.asp#AnkaaPLUSprice)<br>
 **CPU**: NXP ARM Cortex A7 iMX7 at 1 GHz <br>
 **GPU**: NA <br>
 **RAM**: 2GB <br>
@@ -224,7 +224,7 @@ Webcam Support: &#9744; <br>
 ###### [iMX6PLUS](https://www.e-consystems.com/iMX6-quad-plus-dual-plus-core-som-system-on-module.asp) <br>
 [<img src="Images/iMX6.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 349.00 [Buy here](https://www.e-consystems.com/webstore.asp#AnkaaPLUSprice)<br>
+**Cost and Sourcing Link**: USD 349.00. [Buy here](https://www.e-consystems.com/webstore.asp#AnkaaPLUSprice)<br>
 **CPU**: NXP ARM Cortex A9 iMX6 at 1.2 GHz <br>
 **GPU**: NA <br>
 **RAM**: 2GB <br>
@@ -249,7 +249,7 @@ Webcam Support: &#9744; <br>
 ###### [RockPi 4B](http://rockpi.org/) <br>
 [<img src="Images/RockPi.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 74.95 [Buy here](https://shop.allnetchina.cn/)<br>
+**Cost and Sourcing Link**: USD 74.95. [Buy here](https://shop.allnetchina.cn/)<br>
 **CPU**: Dual Cortex-A72 at 1.8GHz and quad Cortex-A53 at 1.4GHz <br>
 **GPU**: Mali T860 <br>
 **RAM**: 512MB DDR3 (shared with GPU) <br>
@@ -279,7 +279,7 @@ Webcam Support: &#9745; <br>
 ###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
 [<img src="Images/NUC.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 1099.95 with 32 GB RAM, 512 GB SSD [Buy here](https://simplynuc.com/7i7dnbe-board-full/)<br>
+**Cost and Sourcing Link**: USD 1099.95 with 32 GB RAM, 512 GB SSD. [Buy here](https://simplynuc.com/7i7dnbe-board-full/)<br>
 **CPU**: Intel Core i7 <br>
 **GPU**: Intel HD Graphics <br>
 **RAM**: 32GB (Max.) <br>
@@ -304,7 +304,7 @@ Webcam Support: &#9744; <br>
 ###### [Intel Up Squared AI Vision X](https://software.intel.com/en-us/iot/hardware/up-squared-ai-vision-dev-kit) <br>
 [<img src="Images/UpSquared.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 519.00 with 32 GB RAM, 512 GB SSD [Buy here](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html#/116-up_squared_ai_vision_x_developer_kit-version_b_w_myriad_x)<br>
+**Cost and Sourcing Link**: USD 519.00 with 32 GB RAM, 512 GB SSD. [Buy here](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html#/116-up_squared_ai_vision_x_developer_kit-version_b_w_myriad_x)<br>
 **CPU**: Intel Atom x7-E3950 processor (1.6 GHz quad core, burst up to 2.0 GHz) <br>
 **GPU**: Integrated Intel HD Graphics 505 and Movidius Myriad X <br>
 **RAM**: 8GB <br>
@@ -329,7 +329,7 @@ Webcam Support: &#9744; <br>
 ###### [AAeon Up Board](https://store.intelrealsense.com/buy-aaeon-up-board.html) <br>
 [<img src="Images/AaeonUpBoard.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 89.00 [Buy here](https://store.intelrealsense.com/buy-aaeon-up-board.html)<br>
+**Cost and Sourcing Link**: USD 89.00. [Buy here](https://store.intelrealsense.com/buy-aaeon-up-board.html)<br>
 **CPU**: Intel Atom x5-Z8350 Processor (1.44 GHz quad core, burst up to 1.92 GHz) <br>
 **GPU**: Integrated Intel HD Graphics 400 <br>
 **RAM**: 4GB <br>
@@ -370,7 +370,7 @@ Webcam Support: &#9744; <br>
 ###### [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) <br>
 [<img src="Images/OpenMVH7.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 65.00 [Buy here](https://openmv.io/products/openmv-cam-h7)<br>
+**Cost and Sourcing Link**: USD 65.00. [Buy here](https://openmv.io/products/openmv-cam-h7)<br>
 **Sensor**: ON Semiconductor MT9V034 with optional [Global Shutter upgrade](https://openmv.io/collections/cams/products/global-shutter-camera-module) <br>
 **Shutter Type**: Global with upgrade <br> 
 **Resolution and Frame rate**: 752 x 480 at 60 fps (Max.)  <br>
@@ -386,7 +386,7 @@ Webcam Support: &#9744; <br>
 ###### [See3CAM_11CUG](https://www.e-consystems.com/industrial-digital-camera.asp) <br>
 [<img src="Images/See3Cam11CUG.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 199.00 [Buy here](https://www.e-consystems.com/webstore.asp#See3CAM_11CUG)<br>
+**Cost and Sourcing Link**: USD 199.00. [Buy here](https://www.e-consystems.com/webstore.asp#See3CAM_11CUG)<br>
 **Sensor**: ON Semiconductor AR0134CS <br>
 **Shutter Type**: Global with upgrade <br> 
 **Resolution and Frame rate**: 1280 x 960 at 20 fps (Max.) Sensor supports upto 60 fps at Max. resolution. <br>
@@ -403,7 +403,7 @@ Webcam Support: &#9744; <br>
 ###### [Matrix Vision mvBlueFox-MLC200wC](https://www.matrix-vision.com/USB3-vision-camera-mvbluefox3.html) <br>
 [<img src="Images/mvBlueFox.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 999.00 [Buy here](https://www.matrix-vision.com/USB2.0-single-board-camera-mvbluefox-mlc.html?camera=mvBlueFOX-MLC200wC&selectInterface=Alle&selectMpixels=Alle&selectFps=Alle&selectSensor=Alle&selectColor=Alle&selectSize=Alle&selectShutter=Alle&selectModel=Alle&col=1&row=0&file=tl_files/mv11/support/mvIMPACT_Acquire/01/mvBlueFOX-x86-2.21.0.msi)<br>
+**Cost and Sourcing Link**: USD 999.00. [Buy here](https://www.matrix-vision.com/USB2.0-single-board-camera-mvbluefox-mlc.html?camera=mvBlueFOX-MLC200wC&selectInterface=Alle&selectMpixels=Alle&selectFps=Alle&selectSensor=Alle&selectColor=Alle&selectSize=Alle&selectShutter=Alle&selectModel=Alle&col=1&row=0&file=tl_files/mv11/support/mvIMPACT_Acquire/01/mvBlueFOX-x86-2.21.0.msi)<br>
 **Sensor**: ON Semiconductor MT9V <br>
 **Shutter Type**: Global <br> 
 **Resolution and Frame rate**: 752 x 480 at 93 fps (Max.) <br>
@@ -419,7 +419,7 @@ Webcam Support: &#9744; <br>
 ###### [Point Grey Flea3 e2v EV76C560](https://www.ptgrey.com/flea3-13-mp-color-usb3-vision-e2v-ev76c560-camera) <br>
 [<img src="Images/Flea3.jpg" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 695.00 [Buy here](https://www.ptgrey.com/flea3-13-mp-color-usb3-vision-e2v-ev76c560-camera)<br>
+**Cost and Sourcing Link**: USD 695.00. [Buy here](https://www.ptgrey.com/flea3-13-mp-color-usb3-vision-e2v-ev76c560-camera)<br>
 **Sensor**: e2v EV76C560
  <br>
 **Shutter Type**: Global <br> 
@@ -436,7 +436,7 @@ Webcam Support: &#9744; <br>
 ###### [Mynt Eye D](https://www.mynteye.com/pages/mynt-eye-d) <br>
 [<img src="Images/MyntEyeD.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 399.00 [Buy here](https://www.mynteye.com/products/mynt-eye-d-pre-order)<br>
+**Cost and Sourcing Link**: USD 399.00. [Buy here](https://www.mynteye.com/products/mynt-eye-d-pre-order)<br>
 **Sensor**: NA  <br>
 **Shutter Type**: Global <br> 
 **Resolution and Frame rate**: 2560 x 720 at 60 fps (Max.) and Depth at 1280 x 720 at 60 fps (Max.) <br>
@@ -453,7 +453,7 @@ Webcam Support: &#9744; <br>
 ###### [Tara](https://www.e-consystems.com/3D-USB-stereo-camera.asp) <br>
 [<img src="Images/Tara.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 299.00 [Buy here](https://www.e-consystems.com/webstore.asp#tara_Stereo_Vision_camera)<br>
+**Cost and Sourcing Link**: USD 299.00. [Buy here](https://www.e-consystems.com/webstore.asp#tara_Stereo_Vision_camera)<br>
 **Sensor**: MT9V024 <br>
 **Shutter Type**: Global <br> 
 **Resolution and Frame rate**: 1504 x 480 at 60 fps (Max.) <br>
@@ -470,7 +470,7 @@ Webcam Support: &#9744; <br>
 ###### [Duo MLX](https://duo3d.com/product/duo-minilx-lv1) <br>
 [<img src="Images/DuoMLX.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 695.00 [Buy here](https://duo3d.com/account)<br>
+**Cost and Sourcing Link**: USD 695.00. [Buy here](https://duo3d.com/account)<br>
 **Sensor**: NA <br>
 **Shutter Type**: Global <br> 
 **Resolution and Frame rate**: 1504 x 480 at 45 fps (Max.) <br>
@@ -492,7 +492,7 @@ Webcam Support: &#9744; <br>
 ###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
 [<img src="Images/ELPCamera.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 48.99 [Buy here](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74)<br>
+**Cost and Sourcing Link**: USD 48.99. [Buy here](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74)<br>
 **Sensor**: Aptina MI5100  <br>
 **Shutter Type**: Rolling <br> 
 **Resolution and Frame rate**: 2592 x 1944 at 15 fps (Max.) <br>
@@ -508,7 +508,7 @@ Webcam Support: &#9744; <br>
 ###### [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/) <br>
 [<img src="Images/RaspberryPiCam2.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 29.95 [Buy here](https://www.adafruit.com/product/3099?src=raspberrypi)<br>
+**Cost and Sourcing Link**: USD 29.95. [Buy here](https://www.adafruit.com/product/3099?src=raspberrypi)<br>
 **Sensor**: Sony IMX219  <br>
 **Shutter Type**: Rolling <br> 
 **Resolution and Frame rate**: 1920 x 1080 at 30 fps (Max.) <br>
@@ -524,7 +524,7 @@ Webcam Support: &#9744; <br>
 ###### [CaliCam Fisheye Mono](https://astar.ai/collections/astar-products/products/calicam-mono) <br>
 [<img src="Images/CaliCamMono.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 49.00 [Buy here](https://astar.ai/11580702779/checkouts/656f0c88906342437dca38bec626f934)<br>
+**Cost and Sourcing Link**: USD 49.00. [Buy here](https://astar.ai/11580702779/checkouts/656f0c88906342437dca38bec626f934)<br>
 **Sensor**: NA  <br>
 **Shutter Type**: Rolling <br> 
 **Resolution and Frame rate**: 1280 x 960 at 30 fps (Max.) <br>
@@ -540,7 +540,7 @@ Webcam Support: &#9744; <br>
 ###### [CaliCam Fisheye Stereo](https://astar.ai/collections/astar-products/products/stereo-camera) <br>
 [<img src="Images/CaliCamStereo.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 139.00 [Buy here](https://astar.ai/11580702779/checkouts/4bfe57ca739d66f19d46733cdc454835)<br>
+**Cost and Sourcing Link**: USD 139.00. [Buy here](https://astar.ai/11580702779/checkouts/4bfe57ca739d66f19d46733cdc454835)<br>
 **Sensor**: NA  <br>
 **Shutter Type**: Rolling <br> 
 **Resolution and Frame rate**: 2560 x 960 at 30 fps (Max.) <br>
@@ -561,7 +561,7 @@ Webcam Support: &#9744; <br>
 ###### [Asus Xtion Pro Live](https://www.asus.com/us/3D-Sensor/Xtion_PRO_LIVE/) <br>
 [<img src="Images/Xtion.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: NA anymore<br>
+**Cost and Sourcing Link**: NA anymore. <br>
 **Depth Range**: 800 mm to 3500 mm <br>
 **Resolution and Frame rate**: Images at 1280 x 1024 at 30 fps (Max.), Depth at 640 x 480 at 30 fps (Max.) <br>
 **Color/Monochrome**: RGB Color <br>
@@ -574,7 +574,7 @@ Webcam Support: &#9744; <br>
 ###### [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/) <br>
 [<img src="Images/RealSense.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 199.00 [Buy here](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435i.html?_ga=2.70691472.1422643180.1556026875-1272969693.1548211961)<br>
+**Cost and Sourcing Link**: USD 199.00. [Buy here](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435i.html?_ga=2.70691472.1422643180.1556026875-1272969693.1548211961)<br>
 **Depth Range**: 105 mm to 10000 mm <br>
 **Resolution and Frame rate**: Images at 1920 x 1080 at 30 fps (Max.), Depth at 1280 x 720 at 90 fps (Max.) <br>
 **Color/Monochrome**: RGB Color <br>
@@ -591,7 +591,7 @@ Webcam Support: &#9744; <br>
 ###### [DAVIS 240C](https://inivation.com/buy/) <br>
 [<img src="Images/DAVIS240C.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 3525.00 with Academic Discout [Buy here](https://inivation.com/buy/)<br>
+**Cost and Sourcing Link**: USD 3525.00 with Academic Discount. [Buy here](https://inivation.com/buy/)<br>
 **Imaging Shutter Type**: Global <br> 
 **Resolution and Event Rate**: 240 x 180 at 12 MEPS (Max.) <br>
 **Sensor Size**: 1/3" <br>
@@ -606,7 +606,7 @@ Webcam Support: &#9744; <br>
 ###### [DAVIS 346](https://inivation.com/buy/) <br>
 [<img src="Images/DAVIS346.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 5678.00 with Academic Discout [Buy here](https://inivation.com/buy/)<br>
+**Cost and Sourcing Link**: USD 5678.00 with Academic Discount. [Buy here](https://inivation.com/buy/)<br>
 **Imaging Shutter Type**: Global <br> 
 **Resolution and Event Rate**: 346 x 260 at 12 MEPS (Max.) <br>
 **Sensor Size**: 1/3.33" <br>
@@ -621,7 +621,7 @@ Webcam Support: &#9744; <br>
 ###### [Silicon Eye Rino 3.0](http://www.insightness.com/) <br>
 [<img src="Images/Inightness.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 6000.00 with Academic Discout [Buy here](http://www.insightness.com/)<br>
+**Cost and Sourcing Link**: USD 6000.00 with Academic Discount [Buy here](http://www.insightness.com/)<br>
 **Imaging Shutter Type**: Global <br> 
 **Resolution and Event Rate**: 320 x 262 at 40 MEPS clocked at 10KHz (Max.) <br>
 **Sensor Size**: 1/3.2" <br>
@@ -636,7 +636,7 @@ Webcam Support: &#9744; <br>
 ###### [Prophesee VGA Sensor](https://www.prophesee.ai/) <br>
 [<img src="Images/Prophesee.PNG" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 4500.00 for camera and USD 1200.00 for sensor [Buy here](https://www.prophesee.ai/)<br>
+**Cost and Sourcing Link**: USD 4500.00 for camera and USD 1200.00 for sensor. [Buy here](https://www.prophesee.ai/)<br>
 **Imaging Shutter Type**: Global <br> 
 **Resolution and Event Rate**: 640 x 480 at 40 MEPS clocked at 10KHz (Max.) <br>
 **Sensor Size**: 3/4" <br>
@@ -655,6 +655,7 @@ Webcam Support: &#9744; <br>
 ###### [Velodyne Puck VLP-16](https://velodynelidar.com/vlp-16.html) <br>
 [<img src="Images/Puck.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 4000.00 after the price cut in Jan, 2018. [Buy here](https://velodynelidar.com/vlp-16.html)<br>
 **Measurement Range**: 100 m <br> 
 **Measurement Accuracy**: 3 cm <br> 
 **Field of View**: 3D, Vertical 30 degrees, Horizontal 360 degrees for 16 channels <br> 
@@ -669,6 +670,7 @@ Webcam Support: &#9744; <br>
 ###### [RPLidar A3](http://www.slamtec.com/en/lidar/A3) <br>
 [<img src="Images/RPLidar.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 599.00. [Buy here](https://www.robotshop.com/en/slamtec-rplidar-a3-360-laser-scanner-25-m.html)<br>
 **Measurement Range**: 25 m <br> 
 **Measurement Accuracy**: 3 cm <br> 
 **Field of View**: 2D, Horizontal 360 degrees <br> 
@@ -683,6 +685,7 @@ Webcam Support: &#9744; <br>
 ###### [Ouster OS1](https://www.ouster.io/product-os1) <br>
 [<img src="Images/Ouster.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 8000.00. [Buy here](https://www.ouster.io/talk-to-sales)<br>
 **Measurement Range**: 120 m <br> 
 **Measurement Accuracy**: 3 cm <br> 
 **Field of View**: 3D, Vertical 33.2 degrees, Horizontal 360 degrees for 64 channels <br> 
@@ -697,6 +700,7 @@ Webcam Support: &#9744; <br>
 ###### [Garmin LIDAR-Lite v3](https://buy.garmin.com/en-US/US/p/557294) <br>
 [<img src="Images/GarminLidar.png" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 129.99. [Buy here](https://buy.garmin.com/en-US/US/p/557294)<br>
 **Measurement Range**: 5 cm to 40 m <br> 
 **Measurement Accuracy**: 2.5 cm <br> 
 **Field of View**: 1 beam LIDAR <br> 
@@ -715,6 +719,7 @@ Webcam Support: &#9744; <br>
 ###### [TeraRanger One](https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-one/) <br>
 [<img src="Images/TeraRangerOne.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 140.00. [Buy here](https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-one/)<br>
 **Measurement Range**: 14 m (Max.) <br> 
 **Measurement Accuracy**: 4 cm <br> 
 **Field of View**: 1 beam LIDAR <br> 
@@ -730,6 +735,7 @@ Webcam Support: &#9744; <br>
 ###### [TeraBee 3Dcam 80x60](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/) <br>
 [<img src="Images/TeraBee3DCam.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 280.00. [Buy here](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/)<br>
 **Resolution**: 80 x 60 px. <br>
 **Field of View**: 74 degrees x 57 degrees <br>
 **Measurement Range**: 0.2 m - 1.2 m (close range mode), 1 m - 4 m (normal mode) <br> 
@@ -745,6 +751,7 @@ Webcam Support: &#9744; <br>
 ###### [Sharp GP2Y0A21YK0F Analog Distance Sensor](https://www.pololu.com/product/136) <br>
 [<img src="Images/SharpSensor.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 10.95. [Buy here](https://www.pololu.com/product/136)<br>
 **Measurement Range**: 10 cm - 80 cm <br> 
 **Depth Resolution**: 1% of distance <br>
 **Rate**: 26 Hz (Max.) <br>
@@ -757,6 +764,7 @@ Webcam Support: &#9744; <br>
 ###### [CamBoard Pico MonoStar](https://pmdtec.com/picofamily/monstar/) <br>
 [<img src="Images/PMDMonoStar.png" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 1935.00. [Buy here](https://www.automation24.com/development-kit-pmd-vision-r-camboard-pico-monstar-700-000-095)<br>
 **Resolution**: 352 x 287 px. <br>
 **Field of View**: 100 degrees x 85 degrees <br>
 **Measurement Range**: 0.5 m - 6 m <br> 
@@ -776,6 +784,7 @@ Webcam Support: &#9744; <br>
 ###### [MaxSonar EZ1](https://www.maxbotix.com/Ultrasonic_Sensors/MB1010.htm) <br>
 [<img src="Images/MaxSonarEZ1.jpg" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 29.95. [Buy here](https://www.maxbotix.com/Ultrasonic_Sensors/MB1010.htm)<br>
 **Measurement Range**: 6 m (Max.) <br> 
 **Rate**: 20 Hz (Max.) <br>
 **Dimensions**: 15.5 mm x 22.3 mm x 20 mm <br>
@@ -792,6 +801,7 @@ Webcam Support: &#9744; <br>
 ###### [VectorNav VN-100](https://www.vectornav.com/products/vn-100) <br>
 [<img src="Images/VN100.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 500.00/800.00 for SMD version with standard/thermal calibration. USD 800.00/1100.00 for Rugged version with standard/thermal calibration. [Buy here](https://www.vectornav.com/products/vn-100)<br>
 **Gyroscope Range**: 2000 degree/sec<br>
 **Gyroscope Resolution**: 0.02 degree/sec<br>
 **Gyroscope Bias Stability**: 10 degree/hour<br>
@@ -808,6 +818,7 @@ Webcam Support: &#9744; <br>
 ###### [Variense VMU931](https://variense.com/product/vmu931/) <br>
 [<img src="Images/VMU931.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 99.00. [Buy here](https://variense.com/product/vmu931/)<br>
 **Gyroscope Range**: 2000 degree/sec<br>
 **Gyroscope Resolution**: 0.03 degree/sec<br>
 **Gyroscope Bias Stability**: 5 degree/hour<br>
@@ -824,6 +835,7 @@ Webcam Support: &#9744; <br>
 ###### [InvenSense MPU-9250](https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/) <br>
 [<img src="Images/MPU9250.PNG" width="480" />]() <br>
 **Specifications**<br>
+**Cost and Sourcing Link**: USD 14.95. [Buy here](https://www.sparkfun.com/products/13762)<br>
 **Gyroscope Range**: 2000 degree/sec<br>
 **Gyroscope Resolution**: NA <br>
 **Gyroscope Bias Stability**: NA<br>
