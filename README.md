@@ -4,7 +4,17 @@ Amazing Hardware for robotics
 ## Table of Contents
 - [CPUs + (GPUs)](#cpus)
   - [ARM based computers](#armcpus)
+    - [OrangePi Zero Plus](#orangepi)
+    - [Raspberry Pi 3B+](#raspberrypi)
+    - [NVIDIA Jetson TX2](#tx2)
+    - [NVIDIA Jetson Xavier](#xavier)
+    - [NVIDIA Jetson Nano](#jetsonano)
+    - [iMX7](#imx7)
+    - [iMX6PLUS](#imx6)
   - [x86 computers](#x86cpus)
+    - [Intel NUC 7I7DNBE](#nuc)
+    - [Intel Up Squared AI Vision X](#upsquared)
+    - [AAeon Up Board](#aaeonup)
 - [Sensors](#sensors)
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
@@ -29,6 +39,9 @@ Amazing Hardware for robotics
 
 ### ARM based computers
 
+
+<a name="orangepi"/>
+
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
 [<img src="Images/OrangePi.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -50,6 +63,8 @@ ROS: &#9745; <br>
 Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="raspberrypi"/>
 
 ###### [Raspberry Pi 3B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) <br>
 [<img src="Images/RaspberryPi3B+.PNG" width="480" />]() <br>
@@ -73,6 +88,8 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
+<a name="tx2"/>
+
 ###### [NVIDIA Jetson TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2) <br>
 [<img src="Images/TX2.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -94,6 +111,8 @@ ROS: &#9745; <br>
 Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product/sprocket-carrier-nvidia-jetson-tx2-jetson-tx1/) <br>
+
+<a name="xavier"/>
 
 ###### [NVIDIA Jetson Xavier](https://developer.nvidia.com/embedded/buy/jetson-agx-xavier-devkit) <br>
 [<img src="Images/Xavier.PNG" width="480" />]() <br>
@@ -117,6 +136,8 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Use [this Connect Tech carrier board](http://connecttech.com/product-category/form-factors/nvidia-jetson-agx-xavier/) <br>
 
+<a name="jetsonnano"/>
+
 ###### [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/) <br>
 [<img src="Images/JetsonNano.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -138,6 +159,8 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="imx7"/>
 
 ###### [iMX7](https://www.e-consystems.com/iMX7-som-system-on-module.asp) <br>
 [<img src="Images/iMX7.PNG" width="480" />]() <br>
@@ -161,6 +184,7 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
+<a name="imx6"/>
 
 ###### [iMX6PLUS](https://www.e-consystems.com/iMX6-quad-plus-dual-plus-core-som-system-on-module.asp) <br>
 [<img src="Images/iMX6.PNG" width="480" />]() <br>
@@ -184,11 +208,36 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: [Ubuntu on iMX6 Boards](https://community.nxp.com/docs/DOC-330147). <br>
 
+<a name="rockpi"/>
+
+###### [RockPi 4B](http://rockpi.org/) <br>
+[<img src="Images/RockPi.png" width="480" />]() <br>
+**Specifications**<br>
+**CPU**: Dual Cortex-A72 at 1.8GHz and quad Cortex-A53 at 1.4GHz <br>
+**GPU**: Mali T860 <br>
+**RAM**: 512MB DDR3 (shared with GPU) <br>
+**ROM**: 64GB <br>
+**WiFi**: On-board<br>
+**Memory Expansion**: Micro SD Card (Max. 128GB), M2 NVME SSD (Max. 1TB) <br>
+**Ports**: 1 USB 3.0 Host, 1 USB 3.0 OTG, 2 USB 2.0 Host, Ethernet, 6 GPIOs <br>
+**Power**: NA <br>
+**OS**: Linaro Linux, Android <br>
+**Dimensions**: 85 mm x 54 mm <br>
+**Weight**: NA <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+OpenCV 3.3: &#9745; <br>
+ROS: &#9745; <br>
+Webcam Support: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
 
 
 <a name="x86cpus"/>
 
 ### x86 computers <br>
+
+<a name="nuc"/>
 
 ###### [Intel NUC 7I7DNBE](https://www.intel.in/content/www/in/en/products/boards-kits/nuc/boards/nuc7i7dnbe.html) <br>
 [<img src="Images/NUC.PNG" width="480" />]() <br>
@@ -212,6 +261,8 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
+<a name="upsquared"/>
+
 ###### [Intel Up Squared AI Vision X](https://software.intel.com/en-us/iot/hardware/up-squared-ai-vision-dev-kit) <br>
 [<img src="Images/UpSquared.png" width="480" />]() <br>
 **Specifications**<br>
@@ -233,6 +284,8 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="aaeonup"/>
 
 ###### [AAeon Up Board](https://store.intelrealsense.com/buy-aaeon-up-board.html) <br>
 [<img src="Images/AaeonUpBoard.PNG" width="480" />]() <br>
