@@ -19,12 +19,42 @@ Amazing Hardware for robotics
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
       - [Global Shutter Cameras](#globimagcameras)
+        - [OpenMV Cam H7](#openmvh7)
+        - [See3CAM_11CUG](#see3cam11cug)
+        - [Matrix Vision mvBlueFox-MLC200wC](#mvbluefox)
+        - [Point Grey Flea3 e2v EV76C560](#pointgreyflea3)
+        - [Mynt Eye D](#mynteye)
+        - [Tara](#tara)
+        - [Duo MLX](#duomlx)
       - [Rolling Shutter Cameras](#rollingimagcameras)
-      - [RGB Cameras](#rgbd)
+        - [ELP USB Camera](#elp)
+        - [Raspberry Pi Camera Module V2](#picam2)
+        - [CaliCam Fisheye Mono](#calicammono)
+        - [CaliCam Fisheye Stereo](#calicamstereo)
+      - [RGBD Cameras](#rgbd)
+        - [Asus Xtion Pro Live](#xtion)
+        - [Intel RealSense D435i](#realsense)
     - [Event cameras](#eventcameras)
-  - [Distance Sensors](#dist)
+      - [DAVIS 240C](#davis240c)
+      - [DAVIS 346](#davis346)
+      - [Silicon Eye Rino 3.0](#insightness)
+      - [Prophesee VGA Sensor](#prophesee)
   - [LIDAR](#lidar)
+    - [Velodyne Puck VLP-16](#puck)
+    - [RPLidar A3](#rplidar)
+    - [Ouster OS1](#ouster)
+    - [Garmin LIDAR-Lite v3](#lidarlite)
+  - [Time of Flight or IR Range Sensors](#tof)
+    - [TeraRanger One](#terarangerone) 
+    - [TeraBee 3Dcam 80x60](#terbee3dcam) 
+    - [Sharp GP2Y0A21YK0F Analog Distance Sensor](#sharp)
+    - [CamBoard Pico MonoStar](#monostar)
+  - [SONAR](#sonar)
+    - [MaxSonar EZ1](#maxsonarez1)
   - [IMUs](#imu)
+    - [VectorNav VN-100](#vectornav)
+    - [Variense VMU931](#variense)
+    - [InvenSense MPU-9250](#mpu9250)
 
  ## TODO:
  - Add Prices
@@ -325,6 +355,7 @@ Webcam Support: &#9744; <br>
 
 ##### Global Shutter Cameras 
 
+<a name="openmvh7"/>
 
 ###### [OpenMV Cam H7](https://openmv.io/products/openmv-cam-h7) <br>
 [<img src="Images/OpenMVH7.PNG" width="480" />]() <br>
@@ -338,6 +369,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 45 mm x 36 mm x 30 mm<br>
 **Weight**: 19 g <br> 
 **Additional Notes**: Comes with a Cortex M7 processor on-board at 400MHz, 256KB RAM and Micro SD Card support. Also supports MicroPython programming interface.<br>
+
+<a name="see3cam11cug"/>
 
 ###### [See3CAM_11CUG](https://www.e-consystems.com/industrial-digital-camera.asp) <br>
 [<img src="Images/See3Cam11CUG.PNG" width="480" />]() <br>
@@ -353,6 +386,8 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: <br>
 
 
+<a name="mvbluefox"/>
+
 ###### [Matrix Vision mvBlueFox-MLC200wC](https://www.matrix-vision.com/USB3-vision-camera-mvbluefox3.html) <br>
 [<img src="Images/mvBlueFox.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -365,6 +400,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 35 mm x 33 mm x 25 mm <br>
 **Weight**: 10 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
+
+<a name="pointgreyflea3"/>
 
 ###### [Point Grey Flea3 e2v EV76C560](https://www.ptgrey.com/flea3-13-mp-color-usb3-vision-e2v-ev76c560-camera) <br>
 [<img src="Images/Flea3.jpg" width="480" />]() <br>
@@ -380,65 +417,7 @@ Webcam Support: &#9744; <br>
 **Weight**: 41 g (without lens and without enclosure) <br> 
 **Additional Notes**: <br>
 
-<a name="rollingimagcameras"/>
-
-##### Rolling Shutter Cameras 
-
-
-###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
-[<img src="Images/ELPCamera.PNG" width="480" />]() <br>
-**Specifications**<br>
-**Sensor**: Aptina MI5100  <br>
-**Shutter Type**: Rolling <br> 
-**Resolution and Frame rate**: 2592 x 1944 at 15 fps (Max.) <br>
-**Sensor Size**: 1/2.5" <br>
-**Color/Monochrome**: RGB Color <br>
-**Lens Mount**: M12 <br>
-**Dimensions**: 38 mm x 38 mm <br>
-**Weight**: 10 g (with lens) <br> 
-**Additional Notes**: <br>
-
-###### [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/) <br>
-[<img src="Images/RaspberryPiCam2.PNG" width="480" />]() <br>
-**Specifications**<br>
-**Sensor**: Sony IMX219  <br>
-**Shutter Type**: Rolling <br> 
-**Resolution and Frame rate**: 1920 x 1080 at 30 fps (Max.) <br>
-**Sensor Size**: 1/4" <br>
-**Color/Monochrome**: RGB Color <br>
-**Lens Mount**: M12 <br>
-**Dimensions**: 25 mm x 24 mm x 9 mm <br>
-**Weight**: 3 g (with lens) <br> 
-**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/). [Rolling Shutter Problems](https://www.raspberrypi.org/forums/viewtopic.php?t=177046).<br>
-
-
-###### [CaliCam Fisheye Mono](https://astar.ai/collections/astar-products/products/calicam-mono) <br>
-[<img src="Images/CaliCamMono.png" width="480" />]() <br>
-**Specifications**<br>
-**Sensor**: NA  <br>
-**Shutter Type**: Rolling <br> 
-**Resolution and Frame rate**: 1280 x 960 at 30 fps (Max.) <br>
-**Sensor Size**: NA <br>
-**Color/Monochrome**: RGB Color <br>
-**Lens Mount**: M12 <br>
-**Dimensions**: 38 mm x 38 mm <br>
-**Weight**: NA (with lens) <br> 
-**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
-
-
-###### [CaliCam Fisheye Stereo](https://astar.ai/collections/astar-products/products/stereo-camera) <br>
-[<img src="Images/CaliCamStereo.png" width="480" />]() <br>
-**Specifications**<br>
-**Sensor**: NA  <br>
-**Shutter Type**: Rolling <br> 
-**Resolution and Frame rate**: 2560 x 960 at 30 fps (Max.) <br>
-**Baseline**: 120 mm <br>
-**Sensor Size**: NA <br>
-**Color/Monochrome**: RGB Color <br>
-**Lens Mount**: M12 <br>
-**Dimensions**: 150 mm x 30 mm <br>
-**Weight**: NA (with lens) <br> 
-**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
+<a name="mynteye"/>
 
 ###### [Mynt Eye D](https://www.mynteye.com/pages/mynt-eye-d) <br>
 [<img src="Images/MyntEyeD.PNG" width="480" />]() <br>
@@ -454,6 +433,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 190 (with casing), 80 g (without casing) <br> 
 **Additional Notes**: Includes an IMU as well. <br>
 
+<a name="tara"/>
+
 ###### [Tara](https://www.e-consystems.com/3D-USB-stereo-camera.asp) <br>
 [<img src="Images/Tara.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -467,6 +448,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 145 mm x 20 mm x 28.6 mm<br>
 **Weight**: 80.5 (with casing), 28.5 g (without casing) <br> 
 **Additional Notes**: Includes an IMU as well. <br>
+
+<a name="duomlx"/>
 
 ###### [Duo MLX](https://duo3d.com/product/duo-minilx-lv1) <br>
 [<img src="Images/DuoMLX.PNG" width="480" />]() <br>
@@ -483,9 +466,76 @@ Webcam Support: &#9744; <br>
 **Additional Notes**: Includes an IMU as well. <br>
 
 
+<a name="rollingimagcameras"/>
+
+##### Rolling Shutter Cameras 
+
+<a name="elp"/>
+
+###### [ELP USB Camera](https://www.amazon.com/dp/B012CH5F58/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B012CH5F58&pd_rd_w=C08fx&pf_rd_p=8a8f3917-7900-4ce8-ad90-adf0d53c0985&pd_rd_wg=wmekN&pf_rd_r=9BRH4KPT0RXJG111XN4V&pd_rd_r=bd919c96-6379-11e9-afd4-2da01f345a74) <br>
+[<img src="Images/ELPCamera.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: Aptina MI5100  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 2592 x 1944 at 15 fps (Max.) <br>
+**Sensor Size**: 1/2.5" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 38 mm x 38 mm <br>
+**Weight**: 10 g (with lens) <br> 
+**Additional Notes**: <br>
+
+<a name="picam2"/>
+
+###### [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/) <br>
+[<img src="Images/RaspberryPiCam2.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: Sony IMX219  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 1920 x 1080 at 30 fps (Max.) <br>
+**Sensor Size**: 1/4" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 25 mm x 24 mm x 9 mm <br>
+**Weight**: 3 g (with lens) <br> 
+**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/). [Rolling Shutter Problems](https://www.raspberrypi.org/forums/viewtopic.php?t=177046).<br>
+
+<a name="calicammono"/>
+
+###### [CaliCam Fisheye Mono](https://astar.ai/collections/astar-products/products/calicam-mono) <br>
+[<img src="Images/CaliCamMono.png" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: NA  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 1280 x 960 at 30 fps (Max.) <br>
+**Sensor Size**: NA <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 38 mm x 38 mm <br>
+**Weight**: NA (with lens) <br> 
+**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
+
+<a name="calicamstereo"/>
+
+###### [CaliCam Fisheye Stereo](https://astar.ai/collections/astar-products/products/stereo-camera) <br>
+[<img src="Images/CaliCamStereo.png" width="480" />]() <br>
+**Specifications**<br>
+**Sensor**: NA  <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 2560 x 960 at 30 fps (Max.) <br>
+**Baseline**: 120 mm <br>
+**Sensor Size**: NA <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M12 <br>
+**Dimensions**: 150 mm x 30 mm <br>
+**Weight**: NA (with lens) <br> 
+**Additional Notes**: Pre-calibrated to less than 0.3 px RMSE. <br>
+
 <a name="rgbd"/>
 
 ##### RGBD Cameras 
+
+<a name="xtion"/>
 
 ###### [Asus Xtion Pro Live](https://www.asus.com/us/3D-Sensor/Xtion_PRO_LIVE/) <br>
 [<img src="Images/Xtion.PNG" width="480" />]() <br>
@@ -496,6 +546,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 457 mm x 89 mm x 127 mm<br>
 **Weight**: 540 g <br> 
 **Additional Notes**: Includes microphones as well. <br>
+
+<a name="realsense"/>
 
 ###### [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/) <br>
 [<img src="Images/RealSense.png" width="480" />]() <br>
@@ -511,6 +563,8 @@ Webcam Support: &#9744; <br>
 
 ##### Event Cameras 
 
+<a name="davis240c"/>
+
 ###### [DAVIS 240C](https://inivation.com/buy/) <br>
 [<img src="Images/DAVIS240C.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -522,6 +576,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 56 mm x 62 mm x 28 mm <br>
 **Weight**: 75 g (without lens) <br> 
 **Additional Notes**: <br>
+
+<a name="davis346"/>
 
 ###### [DAVIS 346](https://inivation.com/buy/) <br>
 [<img src="Images/DAVIS346.PNG" width="480" />]() <br>
@@ -535,6 +591,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 100 g (without lens) <br> 
 **Additional Notes**: <br>
 
+<a name="insightness"/>
+
 ###### [Silicon Eye Rino 3.0](http://www.insightness.com/) <br>
 [<img src="Images/Inightness.png" width="480" />]() <br>
 **Specifications**<br>
@@ -546,6 +604,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 35 mm x 35 mm x 28 mm <br>
 **Weight**: 15 g (without lens) <br> 
 **Additional Notes**: Includes an MPU-9250 IMU as well. Also includes event visual inertial odometry software package as well.<br>
+
+<a name="prophesee"/>
 
 ###### [Prophesee VGA Sensor](https://www.prophesee.ai/) <br>
 [<img src="Images/Prophesee.PNG" width="480" />]() <br>
@@ -559,13 +619,11 @@ Webcam Support: &#9744; <br>
 **Weight**: 146 g (with the lens) <br> 
 **Additional Notes**: Includes an IMU as well. <br>
 
-<a name="dist"/>
-
-#### Distance Sensors
-
 <a name="lidar"/>
 
 #### LIDAR
+
+<a name="puck"/>
 
 ###### [Velodyne Puck VLP-16](https://velodynelidar.com/vlp-16.html) <br>
 [<img src="Images/Puck.PNG" width="480" />]() <br>
@@ -579,6 +637,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 830 g (without cabling and interface box) <br> 
 **Additional Notes**: <br>
 
+<a name="rplidar"/>
+
 ###### [RPLidar A3](http://www.slamtec.com/en/lidar/A3) <br>
 [<img src="Images/RPLidar.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -591,6 +651,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 190 g <br> 
 **Additional Notes**: <br>
 
+<a name="ouster"/>
+
 ###### [Ouster OS1](https://www.ouster.io/product-os1) <br>
 [<img src="Images/Ouster.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -602,6 +664,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 80 mm x 80 mm x 74 mm <br>
 **Weight**: 380 g <br> 
 **Additional Notes**: Includes an IMU. <br>
+
+<a name="lidarlite"/>
 
 ###### [Garmin LIDAR-Lite v3](https://buy.garmin.com/en-US/US/p/557294) <br>
 [<img src="Images/GarminLidar.png" width="480" />]() <br>
@@ -619,6 +683,7 @@ Webcam Support: &#9744; <br>
 
 #### Time of Flight or IR Range Sensors
 
+<a name="terarangerone"/>
 
 ###### [TeraRanger One](https://www.terabee.com/shop/lidar-tof-range-finders/teraranger-one/) <br>
 [<img src="Images/TeraRangerOne.PNG" width="480" />]() <br>
@@ -633,6 +698,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 8 g <br> 
 **Additional Notes**:  <br>
 
+<a name="terabee3dcam"/>
+
 ###### [TeraBee 3Dcam 80x60](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/) <br>
 [<img src="Images/TeraBee3DCam.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -646,6 +713,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 83 g (with casing) <br> 
 **Additional Notes**:  <br>
 
+<a name="sharp"/>
+
 ###### [Sharp GP2Y0A21YK0F Analog Distance Sensor](https://www.pololu.com/product/136) <br>
 [<img src="Images/SharpSensor.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -655,6 +724,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 44.5 mm x 19 mm x 12.7 mm <br>
 **Weight**: 3.5 g <br> 
 **Additional Notes**:  <br>
+
+<a name="monostar"/>
 
 ###### [CamBoard Pico MonoStar](https://pmdtec.com/picofamily/monstar/) <br>
 [<img src="Images/PMDMonoStar.png" width="480" />]() <br>
@@ -673,6 +744,8 @@ Webcam Support: &#9744; <br>
 
 #### SONAR
 
+<a name="maxsonarez1"/>
+
 ###### [MaxSonar EZ1](https://www.maxbotix.com/Ultrasonic_Sensors/MB1010.htm) <br>
 [<img src="Images/MaxSonarEZ1.jpg" width="480" />]() <br>
 **Specifications**<br>
@@ -686,6 +759,8 @@ Webcam Support: &#9744; <br>
 <a name="imu"/>
 
 #### IMUs
+
+<a name="vectornav"/>
 
 ###### [VectorNav VN-100](https://www.vectornav.com/products/vn-100) <br>
 [<img src="Images/VN100.PNG" width="480" />]() <br>
@@ -701,6 +776,8 @@ Webcam Support: &#9744; <br>
 **Weight**: 15 g (rugged), 3.5 g (SMD) <br> 
 **Additional Notes**: Runs EKF on-board to output attitude as euler angles or quaternion or rotation matrix. Temparature compensated.<br>
 
+<a name="variense"/>
+
 ###### [Variense VMU931](https://variense.com/product/vmu931/) <br>
 [<img src="Images/VMU931.PNG" width="480" />]() <br>
 **Specifications**<br>
@@ -714,6 +791,8 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 31 mm x 31 mm x 9.5 mm<br>
 **Weight**: 10 g <br> 
 **Additional Notes**: Runs EKF on-board to output attitude as euler angles or quaternion or rotation matrix.<br>
+
+<a name="mpu9250"/>
 
 ###### [InvenSense MPU-9250](https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/) <br>
 [<img src="Images/MPU9250.PNG" width="480" />]() <br>
