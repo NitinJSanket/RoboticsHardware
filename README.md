@@ -26,6 +26,8 @@ Amazing Hardware for robotics
         - [Mynt Eye D](#mynteye)
         - [Tara](#tara)
         - [Duo MLX](#duomlx)
+        - [Zed](#zed)
+        - [Zed Mini](#zedmini)
       - [Rolling Shutter Cameras](#rollingimagcameras)
         - [ELP USB Camera](#elp)
         - [Raspberry Pi Camera Module V2](#picam2)
@@ -481,6 +483,40 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 52 mm x 25 mm x 13 mm<br>
 **Weight**: 12.5 g <br> 
 **Additional Notes**: Includes an IMU as well. <br>
+
+<a name="zed"/>
+
+###### [Zed](https://www.stereolabs.com/zed/) <br>
+[<img src="Images/Zed.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 449.00. [Buy here](https://store.stereolabs.com/products/zed)<br>
+**Sensor**: NA <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 4416 x 1242 at 15 fps (Max.) <br>
+**Baseline**: 120 mm <br>
+**Sensor Size**: 1/3" BSI <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M8 <br>
+**Dimensions**: 175 mm x 30 mm x 33 mm<br>
+**Weight**: 159 g <br> 
+**Additional Notes**: Has Real time VIO at 100 Hz with position accuracy of 1 mm and orientation accuracy of 0.1 degrees. <br>
+
+<a name="zedmini"/>
+
+###### [Zed Mini](https://www.stereolabs.com/zed-mini/) <br>
+[<img src="Images/ZedMini.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 449.00. [Buy here](https://store.stereolabs.com/products/zed-mini/?_ga=2.206780435.1291925988.1556141046-637591444.1556141046)<br>
+**Sensor**: NA <br>
+**Shutter Type**: Rolling <br> 
+**Resolution and Frame rate**: 4416 x 1242 at 15 fps (Max.) <br>
+**Baseline**: 63 mm <br>
+**Sensor Size**: 1/3" BSI <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: M8 <br>
+**Dimensions**: 124.5 mm x 30.5 mm x 26.5 mm<br>
+**Weight**: 62.9 g <br> 
+**Additional Notes**: Has Real time VIO at 100 Hz with position accuracy of 1 mm and orientation accuracy of 0.1 degrees. <br>
 
 
 <a name="rollingimagcameras"/>
