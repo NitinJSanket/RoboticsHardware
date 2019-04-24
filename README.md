@@ -15,6 +15,7 @@ Amazing Hardware for robotics
     - [Intel NUC 7I7DNBE](#nuc)
     - [Intel Up Squared AI Vision X](#upsquared)
     - [AAeon Up Board](#aaeonup)
+    - [LattePanda](#lattepanda)
 - [Sensors](#sensors)
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
@@ -343,6 +344,31 @@ Webcam Support: &#9744; <br>
 **OS**: Ubuntu 14.04, 16.04 <br>
 **Dimensions**: 85.60 mm x 56.5 mm <br>
 **Weight**: 120 g? <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
+
+<a name="lattepanda"/>
+
+###### [LattePanda](https://www.lattepanda.com/products/3.html) <br>
+[<img src="Images/LattePanda.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 149.00. [Buy here](https://www.dfrobot.com/index.php?route=product/search&description=true&search=LattePanda)<br>
+**CPU**: Intel Cherry Trail Z8350 Quad Core 1.8GHz <br>
+**GPU**: Integrated Intel HD Graphics <br>
+**RAM**: 4GB <br>
+**ROM**: 64GB <br>
+**WiFi**: On-board WiFi <br>
+**Memory Expansion**: NA <br>
+**Ports**: 1 USB 3.0, 2 USB 2.0,Ethernet, HDMI, DSI, 6 GPIOs, 20 GPIOs from Arduino Leonardo <br>
+**Power**: 15 W <br>
+**OS**: Windows, Ubuntu <br>
+**Dimensions**: 88 mm x 70 mm <br>
+**Weight**: 55 g <br> 
 **Supported Libraries**: <br>
 TensorFlow: &#9744; <br>
 OpenCV 3.3: &#9744; <br>
