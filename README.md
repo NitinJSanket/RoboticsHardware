@@ -1,6 +1,9 @@
 # RoboticsHardware
 Amazing Hardware for robotics
 
+## TODO
+- Raspberry Pi Zero W
+
 ## Table of Contents
 - [CPUs + (GPUs)](#cpus)
   - [ARM based computers](#armcpus)
