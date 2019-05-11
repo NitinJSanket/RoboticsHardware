@@ -1,15 +1,13 @@
 # RoboticsHardware
 Amazing Hardware for robotics
 
-## TODO
-- Raspberry Pi Zero W
-
 ## Table of Contents
 - [CPUs + (GPUs)](#cpus)
   - [ARM based computers](#armcpus)
     - [OrangePi Zero Plus](#orangepi)
     - [Raspberry Pi 3B+](#raspberrypi)
     - [Raspberry Pi Zero W](#pizerow)
+    - [Banana Pi M2 Zero](#bananapim2zero)
     - [NVIDIA Jetson TX2](#tx2)
     - [NVIDIA Jetson Xavier](#xavier)
     - [NVIDIA Jetson Nano](#jetsonano)
@@ -20,6 +18,10 @@ Amazing Hardware for robotics
     - [Intel Up Squared AI Vision X](#upsquared)
     - [AAeon Up Board](#aaeonup)
     - [LattePanda](#lattepanda)
+  - [Neural Network Accelerators](#nnacc)
+    - [Intel Neural Compute Stick 2](#ncs2)
+    - [Google Coral USB Accelerator](#coral)
+    - [OrangePi AI Stick 2801](#orangepiaistick)
 - [Sensors](#sensors)
   - [Cameras](#cameras)
     - [Imaging Cameras](#imagcameras)
@@ -63,11 +65,7 @@ Amazing Hardware for robotics
     - [VectorNav VN-100](#vectornav)
     - [Variense VMU931](#variense)
     - [InvenSense MPU-9250](#mpu9250)
-
- ## TODO:
- - Add Prices
- - Common Imaging Sensors
-
+    
 
 <a name="cpus"/>
 
@@ -152,6 +150,30 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
+<a name="bananapim2zero"/>
+
+###### [Banana Pi M2 Zero](http://www.banana-pi.org/bpi-zero.html) <br>
+[<img src="Images/BananaPiM2Zero.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 18.00. [Buy here](https://www.aliexpress.com/store/product/Allwinner-H2-Open-source-hardware-platform-BPI-M2-zero-all-ineter-face-same-as-Raspberry-pi/302756_32839074880.html?spm=2114.12010612.8148356.3.3d09623bPs2SRG)<br>
+**CPU**: H2+ Quad-core 64-bit Cortex-A7 <br>
+**GPU**: Mali-400 MP2 <br>
+**RAM**: 512MB DDR3 (shared with GPU) <br>
+**ROM**: NA <br>
+**WiFi**: On-board with antenna <br>
+**Memory Expansion**: Micro SD Card (Max. 64GB) <br>
+**Ports**: Mini-HDMI, USB OTG 2.0, CSI <br>
+**Power**: 10 W <br>
+**OS**: Ubuntu <br>
+**Dimensions**: 60 mm x 30 mm <br>
+**Weight**: 35 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
 
 <a name="tx2"/>
 
@@ -303,7 +325,6 @@ Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
-
 <a name="x86cpus"/>
 
 ### x86 computers <br>
@@ -407,6 +428,68 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="nnacc"/>
+
+### Neural Network Accelerators <br>
+
+<a name="ncs2"/>
+
+###### [Intel Neural Compute Stick 2](https://software.intel.com/en-us/neural-compute-stick) <br>
+[<img src="Images/NCS2.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 99.00. [Buy here](https://www.mouser.com/ProductDetail/Intel/NCSM2485DK?qs=byeeYqUIh0OB4GXNqgW8aw%3D%3D)<br>
+**GPU/VPU**: Intel Myriad X with 16 SHAVE Cores <br>
+**Interface**: USB 3.0. <br>
+**FLOPs**: 100 GFLOPs<br>
+**Power**: 1 W <br>
+**Supoorted OS**: Ubuntu <br>
+**Dimensions**: 72.5 mm x 27 mm x 14 mm<br>
+**Weight**: 18.1 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+Caffe: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Generally tuned for classification tasks. Regression tasks have limited support. <br>
+
+<a name="coral"/>
+
+###### [Google Coral USB Accelerator](https://coral.withgoogle.com/products/accelerator) <br>
+[<img src="Images/Coral.png" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 74.99. [Buy here](https://www.mouser.com/ProductDetail/Coral/G950-01456-01?qs=sGAEpiMZZMve4%2FbfQkoj%252BNzzHFZgWGqIphwvwTL5xvk%3D)<br>
+**GPU/VPU**: Google Edge TPU <br>
+**Interface**: USB 3.1. <br>
+**FLOPs**: NA <br>
+**Power**: 2.5 W <br>
+**Supported OS**: Ubuntu <br>
+**Dimensions**: 65 mm x 30 mm x 8 mm<br>
+**Weight**: NA <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+Caffe: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Supports only TensorFlow Lite models. <br>
+
+<a name="orangepiaistick"/>
+
+###### [OrangePi AI Stick 2801](http://www.orangepi.org/Orange%20Pi%20AI%20Stick%202801/) <br>
+[<img src="Images/OrangePiAIStick.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 69.00. [Buy here](https://www.aliexpress.com/item/Orange-Pi-AI-Stick-2801-Neural-Network-Computing-Stick-Artificial-Intelligence/32954041998.html)<br>
+**GPU/VPU**: Lightspeeur SPR2801S <br>
+**Interface**: USB 3.0. <br>
+**FLOPs**: 9.3 TFLOPs <br>
+**Power**: 1.0 W <br>
+**Supported OS**: Ubuntu <br>
+**Dimensions**: 66.5 mm x 20.5 mm x 10.8 mm<br>
+**Weight**: NA <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+Caffe: &#9745; <br>
+PyTorch: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Buy Plai full stack development framework based on PyTorch for USD 149.00 separately. Other related products can be found [here](http://wiki.t-firefly.com/en/NCCS1/plai.html). <br>
 
 <a name="sensors"/>
 
@@ -626,7 +709,7 @@ Webcam Support: &#9744; <br>
 **Lens Mount**: M12 <br>
 **Dimensions**: 25 mm x 24 mm x 9 mm <br>
 **Weight**: 3 g (with lens) <br> 
-**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/). [Rolling Shutter Problems](https://www.raspberrypi.org/forums/viewtopic.php?t=177046).<br>
+**Additional Notes**: Similar Modules can be found at [ArduCam](http://www.arducam.com/). [Rolling Shutter Problems](https://www.raspberrypi.org/forums/viewtopic.php?t=177046). Can order multi-camera to one CSI connector [here](https://www.robotshop.com/en/arducam-multi-camera-adapter-bundle-kit.html?utm_source=Facebook&utm_medium=Paid&utm_campaign=ProdCatUS&fbclid=IwAR3mwmNXyikl8nogVYm0Hrzf7dzPlcX44rR_eLbZSRUaTU9_5lOM8-9Jrek). <br>
 
 <a name="calicammono"/>
 
