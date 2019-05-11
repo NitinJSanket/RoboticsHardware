@@ -9,6 +9,7 @@ Amazing Hardware for robotics
   - [ARM based computers](#armcpus)
     - [OrangePi Zero Plus](#orangepi)
     - [Raspberry Pi 3B+](#raspberrypi)
+    - [Raspberry Pi Zero W](#pizerow)
     - [NVIDIA Jetson TX2](#tx2)
     - [NVIDIA Jetson Xavier](#xavier)
     - [NVIDIA Jetson Nano](#jetsonano)
@@ -124,6 +125,32 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="pizerow"/>
+
+###### [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) <br>
+[<img src="Images/PiZeroW.png" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 10.00. [Buy here](https://www.adafruit.com/product/3400)<br>
+**CPU**: Broadcom BCM2835, ARM 11 SoC at 1.0GHz <br>
+**GPU**: NA <br>
+**RAM**: 512MB <br>
+**ROM**: NA <br>
+**WiFi**: On-board <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 1 micro-USB 2.0, mini-HDMI, CSI, 40 GPIOs <br>
+**Power**: 1.5 W <br>
+**OS**: Ubuntu <br>
+**Dimensions**: 65 mm x 30 mm c 5 mm <br>
+**Weight**: 9.3 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
+
 
 <a name="tx2"/>
 
