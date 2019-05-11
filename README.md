@@ -25,6 +25,7 @@ Amazing Hardware for robotics
     - [Imaging Cameras](#imagcameras)
       - [Global Shutter Cameras](#globimagcameras)
         - [OpenMV Cam H7](#openmvh7)
+        - [JeVois Smart Machine Vision Camera](#jevois)
         - [See3CAM_11CUG](#see3cam11cug)
         - [Matrix Vision mvBlueFox-MLC200wC](#mvbluefox)
         - [Point Grey Flea3 e2v EV76C560](#pointgreyflea3)
@@ -128,7 +129,7 @@ Webcam Support: &#9744; <br>
 
 <a name="pizerow"/>
 
-###### [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) <br>
+###### [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) <br>
 [<img src="Images/PiZeroW.png" width="480" />]() <br>
 **Specifications**<br>
 **Cost and Sourcing Link**: USD 10.00. [Buy here](https://www.adafruit.com/product/3400)<br>
@@ -438,6 +439,22 @@ Webcam Support: &#9744; <br>
 **Dimensions**: 45 mm x 36 mm x 30 mm<br>
 **Weight**: 19 g <br> 
 **Additional Notes**: Comes with a Cortex M7 processor on-board at 400MHz, 256KB RAM and Micro SD Card support. Also supports MicroPython programming interface.<br>
+
+<a name="jevois"/>
+
+###### [JeVois Smart Machine Vision Camera](https://www.jevoisinc.com/) <br>
+[<img src="Images/JeVois.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 49.99. [Buy here](https://www.jevoisinc.com/products/jevois-a33-smart-machine-vision-camera?variant=36249051018)<br>
+**Sensor**: Omnivision OV9653 with optional [OnSemi AR0135 Global Shutter upgrade with InvenSense IMU ICM-20948](https://www.jevoisinc.com/products/jevois-1-2mp-global-shutter-sensor-with-9-dof-imu-upgrade-kit-color) <br>
+**Shutter Type**: Rolling or Global with upgrade <br> 
+**Resolution and Frame rate**:  1280 x 1024  at 15 fps (Max.)  <br>
+**Sensor Size**: 1/3" <br>
+**Color/Monochrome**: RGB Color <br>
+**Lens Mount**: 1/4" <br>
+**Dimensions**: 39 mm x 31 mm x 23 mm<br>
+**Weight**: 17 g (including 5.4 g plastic case and 4.1 g cooling fan) <br> 
+**Additional Notes**: Comes with a Quad-core ARM Cortex A7 at 1.35 GHz, Dual core Mali 400 GPU and can run vision algorithms on-board.<br>
 
 <a name="see3cam11cug"/>
 
