@@ -13,6 +13,7 @@ Amazing Hardware for robotics
     - [NVIDIA Jetson Nano](#jetsonano)
     - [iMX7](#imx7)
     - [iMX6PLUS](#imx6)
+    - [A33-OLinuXino](#a33olinixino)
   - [x86 computers](#x86cpus)
     - [Intel NUC 7I7DNBE](#nuc)
     - [Intel Up Squared AI Vision X](#upsquared)
@@ -325,6 +326,32 @@ ROS: &#9745; <br>
 Webcam Support: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="a33olinixino"/>
+
+###### [A33-OLinuXino](https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/open-source-hardware) <br>
+[<img src="Images/A33OLinuXino.jpg" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 32.40. [Buy here](https://www.olimex.com/Products/OLinuXino/A33/A33-OLinuXino/open-source-hardware)<br>
+**CPU**: A33 Quad Core A7 at 1.2GHz <br>
+**GPU**: Mali-400 <br>
+**RAM**: 1GB DDR3 <br>
+**ROM**: ? <br>
+**WiFi**: NA <br>
+**Memory Expansion**: NA <br>
+**Ports**: CSI, DSI, GPIOs <br>
+**Power**: NA <br>
+**OS**: Linux, Android <br>
+**Dimensions**: 66 mm x 71 mm <br>
+**Weight**: 20 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
+
 
 <a name="x86cpus"/>
 
