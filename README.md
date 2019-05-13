@@ -537,7 +537,7 @@ PyTorch: &#9745; <br>
 **Lens Mount**: 1/4" <br>
 **Dimensions**: 39 mm x 31 mm x 23 mm<br>
 **Weight**: 17 g (including 5.4 g plastic case and 4.1 g cooling fan) <br> 
-**Additional Notes**: Comes with a Quad-core ARM Cortex A7 at 1.35 GHz, Dual core Mali 400 GPU and can run vision algorithms on-board.<br>
+**Additional Notes**: Comes with a Quad-core ARM Cortex A7 at 1.35 GHz, Dual core Mali 400 GPU, 256 MB RAM and can run vision algorithms on-board.<br>
 
 <a name="see3cam11cug"/>
 
