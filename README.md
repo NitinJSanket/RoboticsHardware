@@ -65,6 +65,7 @@ Amazing Hardware for robotics
     - [VectorNav VN-100](#vectornav)
     - [Variense VMU931](#variense)
     - [InvenSense MPU-9250](#mpu9250)
+    - [Xsens MTi 1-series](#xsensmti)
     
 
 <a name="cpus"/>
@@ -1039,4 +1040,20 @@ PyTorch: &#9745; <br>
 **Weight**: NA <br> 
 **Additional Notes**: <br>
 
+<a name="xsensmti"/>
+
+###### [Xsens MTi 1-series](https://www.xsens.com/products/mti-1-series/) <br>
+[<img src="Images/XSensMTi.png" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 391.50. [Buy here](https://www.mouser.com/ProductDetail/Xsens/MTi-7-T?qs=%2Fha2pyFaduiUpS1K0sY1DhAAQeOaUjZzmgwzWG0xBpX6lPKF5WC4Mw%3D%3D)<br>
+**Gyroscope Range**: 2000 degree/sec<br>
+**Gyroscope Resolution**: NA <br>
+**Gyroscope Bias Stability**: 18 degrees/hour<br>
+**Accelerometer Range**: 16 g<br>
+**Accelerometer Resolution**: NA<br>
+**Accelerometer Bias Stability**: 0.03 mg <br>
+**Rate**: 4000 Hz (Accelerometer), 800 Hz (Gyroscope) <br>
+**Dimensions**: 12.1 mm x 12.1 mm <br>
+**Weight**: 0.66 g <br> 
+**Additional Notes**: Runs XKF3 sensor fusion on-board to give orientation. More specification details can be found [here](https://www.unmannedsystemstechnology.com/company/xsens/). <br>
  
