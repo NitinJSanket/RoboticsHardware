@@ -387,7 +387,7 @@ Webcam Support: &#9744; <br>
 ###### [Intel Up Squared AI Vision X](https://software.intel.com/en-us/iot/hardware/up-squared-ai-vision-dev-kit) <br>
 [<img src="Images/UpSquared.png" width="480" />]() <br>
 **Specifications**<br>
-**Cost and Sourcing Link**: USD 519.00 with 32 GB RAM, 512 GB SSD. [Buy here](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html#/116-up_squared_ai_vision_x_developer_kit-version_b_w_myriad_x)<br>
+**Cost and Sourcing Link**: USD 519.00. [Buy here](https://up-shop.org/home/285-up-squared-ai-vision-x-developer-kit.html#/116-up_squared_ai_vision_x_developer_kit-version_b_w_myriad_x)<br>
 **CPU**: Intel Atom x7-E3950 processor (1.6 GHz quad core, burst up to 2.0 GHz) <br>
 **GPU**: Integrated Intel HD Graphics 505 and Movidius Myriad X <br>
 **RAM**: 8GB <br>
