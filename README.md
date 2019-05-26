@@ -464,7 +464,7 @@ Webcam Support: &#9744; <br>
 <a name="ncs2"/>
 
 ###### [Intel Neural Compute Stick 2](https://software.intel.com/en-us/neural-compute-stick) <br>
-[<img src="Images/NCS2.PNG" width="480" />]() <br>
+[<img src="Images/NCS2.png" width="480" />]() <br>
 **Specifications**<br>
 **Cost and Sourcing Link**: USD 99.00. [Buy here](https://www.mouser.com/ProductDetail/Intel/NCSM2485DK?qs=byeeYqUIh0OB4GXNqgW8aw%3D%3D)<br>
 **GPU/VPU**: Intel Myriad X with 16 SHAVE Cores <br>
