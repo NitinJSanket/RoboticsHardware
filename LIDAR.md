@@ -65,3 +65,33 @@
 **Dimensions**: 40 mm x 48 mm x 20 mm <br>
 **Weight**: 22 g <br> 
 **Additional Notes**:  <br>
+
+<a name="leddarone"/>
+
+###### [LeddarTech LeddarOne](https://store.leddartech.com/) <br>
+[<img src="Images/LeddarOne.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 115.00. [Buy here](https://store.leddartech.com/)<br>
+**Measurement Range**: 0 m to 40 m <br> 
+**Measurement Accuracy**: 5 mm <br> 
+**Field of View**: 1 beam LIDAR <br> 
+**Resolution**: 3 mm <br>
+**Rate**: 140 Hz (Max.) <br>
+**Dimensions**: 50.8 mm x 50.8 mm x 30.6 mm <br>
+**Weight**: 14 g <br> 
+**Additional Notes**:  <br>
+
+<a name="tfmini"/>
+
+###### [TFMini Micro LIDAR Module](https://www.sparkfun.com/products/14588) <br>
+[<img src="Images/TFMini.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 44.95. [Buy here](https://www.sparkfun.com/products/14588)<br>
+**Measurement Range**: 0.3 m to 12 m <br> 
+**Measurement Accuracy**: 4 cm from 0.3 to 6 m and 6 cm from 6 m to 12 m<br> 
+**Field of View**: 1 beam LIDAR <br> 
+**Resolution**: 5 mm <br>
+**Rate**: 100 Hz (Max.) <br>
+**Dimensions**: 42 mm x 15 mm x 16 mm <br>
+**Weight**: 5 g <br> 
+**Additional Notes**:  <br>

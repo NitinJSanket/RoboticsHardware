@@ -4,7 +4,8 @@ Amazing Hardware for robotics
 ## Table of Contents
 - CPUs + (GPUs)
   - [ARM based computers](ARMCPUs.md#armcpus)
-    - [OrangePi Zero Plus](ARMCPUs.md#orangepi)
+    - [OrangePi Zero Plus 2](ARMCPUs.md#orangepizeroplus2)
+    - [OrangePi Zero Plus](ARMCPUs.md#orangepizeroplus)
     - [Raspberry Pi 3B+](ARMCPUs.md#raspberrypi)
     - [Raspberry Pi Zero W](ARMCPUs.md#pizerow)
     - [Banana Pi M2 Zero](ARMCPUs.md#bananapim2zero)
@@ -23,6 +24,7 @@ Amazing Hardware for robotics
     - [Intel Neural Compute Stick 2](NNA.md#ncs2)
     - [Google Coral USB Accelerator](NNA.md#coral)
     - [OrangePi AI Stick 2801](NNA.md#orangepiaistick)
+    - [Pi AI Hat](#NNA.md#piaihat)
 - Sensors
   - [Cameras](Cameras.md#cameras)
     - [Imaging Cameras](Cameras.md#imagcameras)
@@ -55,6 +57,8 @@ Amazing Hardware for robotics
     - [RPLidar A3](LIDAR.md#rplidar)
     - [Ouster OS1](LIDAR.md#ouster)
     - [Garmin LIDAR-Lite v3](LIDAR.md#lidarlite)
+    - [LeddarTech LeddarOne](LIDAR.md#leddarone)
+    - [TFMini Micro LIDAR Module](LIDAR.md#tfmini)
   - [Time of Flight or IR Range Sensors](ToF.md#tof)
     - [TeraRanger One](ToF.md#terarangerone) 
     - [TeraBee 3Dcam 80x60](ToF.md#terbee3dcam) 

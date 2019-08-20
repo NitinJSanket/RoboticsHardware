@@ -4,7 +4,32 @@
 
 ### ARM based computers
 
-<a name="orangepi"/>
+<a name="orangepizeroplus2"/>
+
+###### [OrangePi Zero Plus 2](http://www.orangepi.org/OrangePiZeroPlus2/) <br>
+[<img src="Images/OrangePiZeroPlus2.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: Coming Soon. [Buy here]()<br>
+**CPU**: H6 Quad-core 64-bit Cortex-A53 <br>
+**GPU**: Hexa-core Mali-T720 <br>
+**RAM**: 512MB DDR3 (shared with GPU) <br>
+**ROM**: 4GB eMMC <br>
+**WiFi**: On-board with antenna <br>
+**Memory Expansion**: Micro SD Card (Max. 32GB) <br>
+**Ports**: 1 USB 3.0m 1 USB 2.0 Host, 1 USB OTG, Ethernet, 13 GPIOs <br>
+**Power**: 5 W <br>
+**OS**: Ubuntu, Android <br>
+**Dimensions**: 45 mm x 48 mm Probably <br>
+**Weight**: 26 g Probably <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+OpenCV 3.3: &#9745; <br>
+ROS: &#9745; <br>
+Webcam Support: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
+
+<a name="orangepizeroplus"/>
 
 ###### [OrangePi Zero Plus](http://www.orangepi.org/OrangePiZeroPlus/) <br>
 [<img src="Images/OrangePi.PNG" width="480" />]() <br>
@@ -52,7 +77,7 @@ OpenCV 3.3: &#9744; <br>
 ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
-**Additional Notes**: <br>
+**Additional Notes**: Combine a Raspberry Pi with 4 Pi Zeros with [this hat](https://shop.pimoroni.com/products/cluster-hat). <br>
 
 <a name="pizerow"/>
 
@@ -278,4 +303,5 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
 

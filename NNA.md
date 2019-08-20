@@ -61,3 +61,24 @@ Caffe: &#9745; <br>
 PyTorch: &#9745; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: Buy Plai full stack development framework based on PyTorch for USD 149.00 separately. Other related products can be found [here](http://wiki.t-firefly.com/en/NCCS1/plai.html). <br>
+
+
+<a name="piaihat"/>
+
+###### [XaLogic Pi AI Hat](https://www.tindie.com/products/xalogic/pi-ai-hat/) <br>
+[<img src="Images/PiAIHat.PNG" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 28.80. [Buy here](https://www.tindie.com/products/xalogic/pi-ai-hat/)<br>
+**GPU/VPU**: XaLogic's AI module XAM3500 <br>
+**Interface**: NA <br>
+**FLOPs**: NA <br>
+**Power**: NA <br>
+**Supported OS**: NA <br>
+**Dimensions**: NA<br>
+**Weight**: NA <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9745; <br>
+Caffe: &#9745; <br>
+PyTorch: &#9745; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: Most information is NA. <br>
