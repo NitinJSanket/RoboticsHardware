@@ -2,7 +2,7 @@
 Amazing Hardware for robotics
 
 ## Table of Contents
-- [Test](Test/#test)
+- [Test](Test.md#test)
 - [CPUs + (GPUs)](#cpus)
   - [ARM based computers](#armcpus)
     - [OrangePi Zero Plus](#orangepi)
