@@ -2,7 +2,6 @@
 Amazing Hardware for robotics
 
 ## Table of Contents
-- [Test](Test/#test)
 - [CPUs + (GPUs)](#cpus)
   - [ARM based computers](#armcpus)
     - [OrangePi Zero Plus](#orangepi)
@@ -69,6 +68,8 @@ Amazing Hardware for robotics
     - [InvenSense MPU-9250](#mpu9250)
     - [Xsens MTi 1-series](#xsensmti)
     
+
+<a name="test"/>
 
 <a name="cpus"/>
 
