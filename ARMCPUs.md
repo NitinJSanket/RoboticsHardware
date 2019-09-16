@@ -304,4 +304,27 @@ Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
 
+<a name="zeropi"/>
 
+###### [Friendly Elec ZeroPi](https://www.friendlyarm.com/index.php?route=product/product&product_id=266) <br>
+[<img src="Images/ZeroPi.png" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 12.99. [Buy here](https://www.friendlyarm.com/index.php?route=product/product&product_id=266)<br>
+**CPU**: Allwinner H3 Quad core A7 at 1.2GHz <br>
+**GPU**: NA <br>
+**RAM**: 512 MB DDR3 <br>
+**ROM**: ? <br>
+**WiFi**: NA <br>
+**Memory Expansion**: Upto 128 GB Visa MicroSD. <br>
+**Ports**: 2 x USB 2.0. <br>
+**Power**: NA <br>
+**OS**: Ubuntu 16.04 Core. <br>
+**Dimensions**: 40 mm x 40 mm <br>
+**Weight**: 15 g <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>

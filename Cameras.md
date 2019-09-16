@@ -281,6 +281,21 @@
 **Weight**: 540 g <br> 
 **Additional Notes**: Includes IMU as well. More versions available [here](https://store.intelrealsense.com/).<br>
 
+<a name="astramini"/>
+
+###### [Astra Mini](http://shop.orbbec3d.com/Astra-Mini_p_40.html) <br>
+[<img src="Images/AstraMini.png" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 159.99. [Buy here](http://shop.orbbec3d.com/Astra-Mini_p_40.html
+)<br>
+**Depth Range**: 600 mm to 5000 mm <br>
+**Resolution and Frame rate**: Images and Depth at 640 x 480 at 30 fps (Max.) <br>
+**Color/Monochrome**: RGB Color <br>
+**Dimensions**: 80 mm x 20 mm x 20 mm<br>
+**Weight**: NA <br> 
+**Additional Notes**: Has another model [Astra Mini S](http://shop.orbbec3d.com/Astra-Mini-S_p_41.html) with range from 350 mm to 1000 mm. Has [other RGB-D cameras](http://shop.orbbec3d.com/) as well.<br>
+
+
 <a name="eventcameras"/>
 
 ##### Event Cameras 

@@ -103,3 +103,28 @@ ROS: &#9744; <br>
 Webcam Support: &#9744; <br>
 **Benchmarks if available**: NA <br>
 **Additional Notes**: <br>
+
+<a name="rockpix"/>
+
+###### [RockPiX]() <br>
+[<img src="Images/RockPiX.jpeg" width="480" />]() <br>
+**Specifications**<br>
+**Cost and Sourcing Link**: USD 39.00. NA Yet<br>
+**CPU**: Intel Cherry Trail Z8300 Quad Core 1.44 GHz <br>
+**GPU**: Integrated Intel HD Graphics <br>
+**RAM**: Upto 4GB <br>
+**ROM**: NA.  <br>
+**WiFi**: On-board WiFi <br>
+**Memory Expansion**: Expandable via MicroSD. <br>
+**Ports**: 1 USB 3.0, 3 USB 2.0 hosts, 1 USB OTG Type C, Ethernet, HDMI <br>
+**Power**: NA <br>
+**OS**: Windows, Ubuntu <br>
+**Dimensions**: 85 mm x 52 mm <br>
+**Weight**: NA <br> 
+**Supported Libraries**: <br>
+TensorFlow: &#9744; <br>
+OpenCV 3.3: &#9744; <br>
+ROS: &#9744; <br>
+Webcam Support: &#9744; <br>
+**Benchmarks if available**: NA <br>
+**Additional Notes**: <br>
