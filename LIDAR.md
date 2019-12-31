@@ -69,7 +69,7 @@
 <a name="leddarone"/>
 
 ###### [LeddarTech LeddarOne](https://store.leddartech.com/) <br>
-[<img src="Images/LeddarOne.PNG" width="480" />]() <br>
+[<img src="Images/LeddarOne.png" width="480" />]() <br>
 **Specifications**<br>
 **Cost and Sourcing Link**: USD 115.00. [Buy here](https://store.leddartech.com/)<br>
 **Measurement Range**: 0 m to 40 m <br> 
@@ -84,7 +84,7 @@
 <a name="tfmini"/>
 
 ###### [TFMini Micro LIDAR Module](https://www.sparkfun.com/products/14588) <br>
-[<img src="Images/TFMini.PNG" width="480" />]() <br>
+[<img src="Images/TFMini.png" width="480" />]() <br>
 **Specifications**<br>
 **Cost and Sourcing Link**: USD 44.95. [Buy here](https://www.sparkfun.com/products/14588)<br>
 **Measurement Range**: 0.3 m to 12 m <br> 
